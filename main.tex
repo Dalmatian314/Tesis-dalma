@@ -1,0 +1,160 @@
+\documentclass[12pt, a4paper]{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{geometry}
+\usepackage[square,numbers,sectionbib]{natbib}
+\usepackage{chapterbib}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{subfig}
+\usepackage[version=3]{mhchem}  %for chemistry
+\usepackage{xcolor}
+\usepackage{wrapfig}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{amssymb}		
+\usepackage{longtable}
+\usepackage{epsfig}
+\usepackage{colortbl}
+%\usepackage{picins}
+  
+
+%\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{fancyhdr}
+  
+\newcommand{\br}{\mathbf{r}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\ham}{\mathcal{H}}
+\newcommand{\bra}[1]{\langle#1|}
+\newcommand{\ket}[1]{|#1\rangle}
+\newcommand{\Tr}{\mathrm{Tr}}
+\newcommand{\im}{\mathrm{i}}
+\newcommand{\invs}{S^{-1}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bE}{\mathbf{E}}
+\newcommand{\bv}{\mathbf{v}}
+\newcommand{\der}{\partial}
+\newcommand{\muno}{^{-1}}
+\newcommand{\bmu}{\bm{\mu}}
+\newcommand{\bpol}{\bm{\alpha}}
+\newcommand{\be}{\mathbf{\hat{e}}}
+\newcommand{\Ef}{\mathcal{E}}
+
+
+\setlength{\belowcaptionskip}{-.2\baselineskip}
+%\setlength{\wrapoverhang}{\marginparwidth}
+%\addtolength{\wrapoverhang}{\marginparsep}
+\setlength\intextsep{10pt}
+%\setlength\columnsep{0pt}
+
+% \newgeometry{        %para setear los márgenes de arriba, abajo, interno y externo      
+%     top=1in,               
+%     bottom=1in,
+%     outer=0.5in,
+%     inner=1in,
+% }
+\renewcommand{\tablename}{Tabla}
+\renewcommand{\listtablename}{Lista de Tablas}
+\renewcommand{\listfigurename}{Lista de Figuras}
+\renewcommand{\chaptername}{Capítulo}
+\renewcommand{\contentsname}{Índice General}
+  
+% Googlear para producir la carátula.
+  
+
+  
+\fancypagestyle{mystyle}{                  
+   \fancyhf{}                          %borra los headears y foot by default de fancy
+   \fancyhead[RO]{\slshape \rightmark} %define el header para las páginas pares a la derecha
+   \fancyhead[LE]{\slshape \leftmark}  %define el header para las páginas impares a la izquierda
+   \fancyfoot[C]{\thepage}             %define el foot al centro como el número de página
+   \renewcommand{\headrulewidth}{0.4pt}
+}
+
+\fancypagestyle{noheader}{
+  \fancyhf{}% Clear header/footer
+  \renewcommand{\headrulewidth}{0pt}% No header rule
+  \fancyfoot[C]{\thepage}             %define el foot al centro como el número de página
+}
+
+\fancypagestyle{onlyheadrule}{
+  \fancyhf{}% Clear header/footer
+  \renewcommand{\headrulewidth}{0.4pt}% No header rule
+}
+ 
+ 
+%\ifnum\value{page}=5 \thispagestyle{noheader}% 
+%\fi
+\begin{document}
+
+\pagestyle{empty}
+
+\renewcommand{\tablename}{\textbf{Tabla}}
+\renewcommand{\listtablename}{Índice de tablas}
+%\renewcommand{\tableofcontents}{Indice}
+
+\pagenumbering{roman}
+
+ \input{caratula/caratula}
+%  \thispagestyle{empty}
+
+ \input{comision/comision}
+%  \thispagestyle{onlyheadrule}
+
+ % \include{agradecimientos/agradecimientos}   
+
+
+  \tableofcontents
+\pagestyle{noheader}  
+
+  %  \thispagestyle{noheader}
+  
+%  \cleardoublepage
+% \phantomsection
+  
+  
+%  \addcontentsline{toc}{chapter}{\listtablename}
+%  \thispagestyle{noheader}
+  
+  \listoftables  %lista de tablas
+%  \thispagestyle{noheader}
+  
+%  \thispagestyle{empty}
+  
+%  \thispagestyle{noheader}
+  
+  \cleardoublepage
+%  \addcontentsline{toc}{chapter}{\listfigurename}
+%  \thispagestyle{noheader}
+  \listoffigures % indice de figuras
+  
+  
+  
+ \input{simbolos/simbolos} 
+  
+ \input{resumen/resumen}   
+  
+\pagenumbering{arabic}
+
+\pagestyle{mystyle}
+
+  \input{cap1/cap1}
+  \input{cap2/cap2}
+  \input{cap3/cap3}
+  \input{cap4/cap4}
+  \input{cap5/cap5}
+  \input{cap6/cap6}
+  \input{cap7/cap7}
+  
+  %\include{cap1/cap1}
+  %\include{cap2/cap2}
+  %\include{cap3/cap3}
+  %\include{cap4/cap4}
+  %\include{cap5/cap5}
+  %\include{cap6/cap6}
+  %\include{cap7/cap7}
+  
+  
+\end{document}
+ 
