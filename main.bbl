@@ -1,5 +1,10 @@
 \begin{thebibliography}{10}
 
+\bibitem{Djurisic2006}
+Aleksandra~B. Djuric and Yu~Hang Leung.
+\newblock {Optical properties of ZnO nanostructures}.
+\newblock {\em Small}, 2(8-9):944--961, 2006.
+
 \bibitem{ORegan1991}
 Brian O'Regan and Michael Gratzel.
 \newblock {A Low-Cost, High-Efficiency Solar-Cell Based on Dye-Sensitized
@@ -363,5 +368,230 @@ T.~A. Niehaus, S.~Suhai, F.~{Della Sala}, M.~Elstner, G.~Seifert, and Th.
 \newblock {Tight-binding approach to time-dependent density-functional response
   theory}.
 \newblock {\em Phys. Rev. B}, 63(8):1--9, 2001.
+
+\bibitem{Strehlow1973}
+W.~H. Strehlow and E.~L. Cook.
+\newblock {Compilation of Energy Band Gaps in Elemental and Binary Compound
+  Semiconductors and Insulators}.
+\newblock 2(1):163--200, 1973.
+
+\bibitem{Mishra2017}
+Pawan~K. Mishra, Harshita Mishra, Adam Ekielski, Sushama Talegaonkar, and
+  Bhuvaneshwar Vaidya.
+\newblock {Zinc oxide nanoparticles: a promising nanomaterial for biomedical
+  applications}.
+\newblock {\em Drug Discovery Today}, 22(12):1825--1834, 2017.
+
+\bibitem{Ozgur2005}
+Ozgur, Ya~I. Alivov, C.~Liu, A.~Teke, M.~A. Reshchikov, S.~Doǧan, V.~Avrutin,
+  S.~J. Cho, and H.~Morko̧.
+\newblock {A comprehensive review of ZnO materials and devices}.
+\newblock {\em Journal of Applied Physics}, 98(4):1--103, 2005.
+
+\bibitem{Janisch2005}
+Rebecca Janisch, Priya Gopal, and Nicola~A Spaldin.
+\newblock {Transition metal-doped {TiO}2and {ZnO}{\textemdash}present status of
+  the field}.
+\newblock {\em Journal of Physics: Condensed Matter}, 17(27):R657----R689,
+  2005.
+
+\bibitem{Look1998}
+D.~C. Look, D.~C. Reynolds, J.~R. Sizelove, R.~L. Jones, C.~W. Litton,
+  G.~Cantwell, and W.~C. Harsch.
+\newblock {Electrical properties of bulk ZnO}.
+\newblock {\em Solid State Communications}, 105(6):399--401, 1998.
+
+\bibitem{Look1999}
+D.~C. Look, J.~W. Hemsky, and J.~R. Sizelove.
+\newblock {Residual native shallow donor in ZnO}.
+\newblock {\em Physical Review Letters}, 82(12):2552--2555, 1999.
+
+\bibitem{Strzhemechny2004}
+Yuri~M. Strzhemechny, Howard~L. Mosbacker, David~C. Look, Donald~C. Reynolds,
+  Cole~W. Litton, Nelson~Y. Garces, Nancy~C. Giles, Larry~E. Halliburton,
+  Shigeru Niki, and Leonard~J. Brillson.
+\newblock {Remote hydrogen plasma doping of single crystal ZnO}.
+\newblock {\em Applied Physics Letters}, 84(14):2545--2547, 2004.
+
+\bibitem{VanDeWalle2000}
+Chris~G. Van De~Walle.
+\newblock {Hydrogen as a cause of doping in zinc oxide}.
+\newblock {\em Physical Review Letters}, 85(5):1012--1015, 2000.
+
+\bibitem{Kato2002}
+Hiroyuki Kato, Michihiro Sano, Kazuhiro Miyamoto, and Takafumi Yao.
+\newblock {Growth and characterization of Ga-doped ZnO layers on a-plane
+  sapphire substrates grown by molecular beam epitaxy}.
+\newblock {\em Journal of Crystal Growth}, 237-239(1-4):538--543, 2002.
+
+\bibitem{Fan2013}
+J.~C. Fan, K.~M. Sreekanth, Z.~Xie, S.~L. Chang, and K.~V. Rao.
+\newblock {P-Type ZnO materials: Theory, growth, properties and devices}.
+\newblock {\em Progress in Materials Science}, 58(6):874--985, 2013.
+
+\bibitem{Huang2001_a}
+M.~H. Huang, S.~Mao, H.~Feick, H.~Yan, Y.~Wu, H.~Kind, E.~Weber, R.~Russo, and
+  P.~Yang.
+\newblock {Room-temperature ultraviolet nanowire nanolasers}.
+\newblock {\em Science}, 292(5523):1897--1899, 2001.
+
+\bibitem{Huang2001_b}
+Michael~H. Huang, Yiying Wu, Henning Feick, Ngan Tran, Eicke Weber, and Peidong
+  Yang.
+\newblock {Catalytic growth of zinc oxide nanowires by vapor transport}.
+\newblock {\em Advanced Materials}, 13(2):113--116, 2001.
+
+\bibitem{Liu2003}
+Bin Liu and Hua~Chun Zeng.
+\newblock {Hydrothermal synthesis of ZnO nanorods in the diameter regime of 50
+  nm}.
+\newblock {\em Journal of the American Chemical Society}, 125(15):4430--4431,
+  2003.
+
+\bibitem{Shabani2020}
+Ehsan Shabani, Mohammad~J. Abdekhodaie, Seyyed~Abbas Mousavi, and Fariborz
+  Taghipour.
+\newblock {ZnO nanoparticle/nanorod-based label-free electrochemical
+  immunoassay for rapid detection of MMP-9 biomarker}.
+\newblock {\em Biochemical Engineering Journal}, 164:107772, 2020.
+
+\bibitem{Chauhan2018}
+Nidhi Chauhan, Shaivya Gupta, Devesh~K. Avasthi, Rainer Adelung, Yogendra~Kumar
+  Mishra, and Utkarsh Jain.
+\newblock {Zinc Oxide Tetrapods Based Biohybrid Interface for Voltammetric
+  Sensing of Helicobacter pylori}.
+\newblock {\em ACS Applied Materials and Interfaces}, 10(36):30631--30639,
+  2018.
+
+\bibitem{Yan2003}
+Haoquan Yan, Justin Johnson, Matt Law, Rongrui He, Kelly Knutsen, Juan~R.
+  McKinney, Johnny Pham, Richard Saykally, and Peidong Yang.
+\newblock {ZnO Nanoribbon Microcavity Lasers}.
+\newblock {\em Advanced Materials}, 15(22):1907--1911, 2003.
+
+\bibitem{Singh2020}
+Paramjot Singh, Deep Kamal~Kaur Randhawa, Tarun, B.~C. Choudhary, Gurleen~Kaur
+  Walia, and Navjot Kaur.
+\newblock {First principles investigation on armchair zinc oxide nanoribbons as
+  uric acid sensors}.
+\newblock {\em Journal of Molecular Modeling}, 26(1), 2020.
+
+\bibitem{Wang2004_a}
+Zhong~Lin Wang.
+\newblock {Nanostructures of zinc oxide}.
+\newblock {\em Materials Today}, 7(6):26--33, 2004.
+
+\bibitem{Wang2004_b}
+Zhong~Lin Wang.
+\newblock {Zinc oxide nanostructures: Growth, properties and applications}.
+\newblock {\em Journal of Physics Condensed Matter}, 16(25), 2004.
+
+\bibitem{Heo2004}
+Y.~W. Heo, D.~P. Norton, L.~C. Tien, Y.~Kwon, B.~S. Kang, F.~Ren, S.~J.
+  Pearton, and J.~R. Laroche.
+\newblock {ZnO nanowire growth and devices}.
+\newblock {\em Materials Science and Engineering R: Reports}, 47(1-2):1--47,
+  2004.
+
+\bibitem{Ghosh2020}
+Surajit Ghosh, Rohan Sartape, and Jayanta Chakraborty.
+\newblock {Role of dye-induced corrosion in determining the efficiency of
+  ZnO-based DSSC: the case of ZnO nanoforest in N719}.
+\newblock {\em Journal of Materials Science: Materials in Electronics},
+  31(3):2202--2220, 2020.
+
+\bibitem{Nayeri2013}
+F.~Dehghan Nayeri, E.~Asl Soleimani, and F.~Salehi.
+\newblock {Synthesis and characterization of ZnO nanowires grown on different
+  seed layers: The application for dye-sensitized solar cells}.
+\newblock {\em Renewable Energy}, 60:246--255, 2013.
+
+\bibitem{Peng2011}
+Qiang Peng and Yuancheng Qi.
+\newblock {ZnO Nanowires and Their Application for Solar Cells}.
+\newblock {\em Nanowires - Implementations and Applications}, 2011.
+
+\bibitem{Baxter2005}
+Jason~B. Baxter and Eray~S. Aydil.
+\newblock {Nanowire-based dye-sensitized solar cells}.
+\newblock {\em Applied Physics Letters}, 86(5):1--3, 2005.
+
+\bibitem{Tiwana2011}
+Priti Tiwana, Pablo Docampo, Michael~B. Johnston, Henry~J. Snaith, and Laura~M.
+  Herz.
+\newblock {Electron mobility and injection dynamics in mesoporous ZnO, SnO 2,
+  and TiO2 films used in dye-sensitized solar cells}.
+\newblock {\em ACS Nano}, 5(6):5158--5166, 2011.
+
+\bibitem{Law2005}
+Matt Law, Lori~E. Greene, Justin~C. Johnson, Richard Saykally, and Peidong
+  Yang.
+\newblock {Nanowire dye-sensitized solar cells}.
+\newblock {\em Nature Materials}, 4(6):455--459, 2005.
+
+\bibitem{Tae2005}
+Eunju~Lee Tae, Seung~Hwan Lee, Jae~Kwan Lee, Su~San Yoo, Eun~Ju Kang, and
+  Kyung~Byung Yoon.
+\newblock {A strategy to increase the efficiency of the dye-sensitized TiO 2
+  solar cells operated by photoexcitation of dye-to-TiO2 charge-transfer
+  bands}.
+\newblock {\em Journal of Physical Chemistry B}, 109:22513--22522, 2005.
+
+\bibitem{Sinopoli2017}
+Alessandro Sinopoli, Ilaria Citro, Giuseppe Calogero, and Antonio Bartolotta.
+\newblock {Combined experimental and DFT-TDDFT investigation on anthocyanidins
+  for application in dye-sensitised solar cells}.
+\newblock {\em Dyes and Pigments}, 143:291--300, 2017.
+
+\bibitem{Persson2000}
+P.~Persson, R.~Bergstrom, and S.~Lunell.
+\newblock {Quantum chemical study of photoinjection processes in dye-sensitized
+  TiO2 nanoparticles}.
+\newblock {\em Journal of Physical Chemistry B}, 104(44):10348--10351, 2000.
+
+\bibitem{Dimitrijevic2003}
+Nada~M. Dimitrijevic, Zoran~V. Saponjic, David~M. Bartels, Marion~C. Thurnauer,
+  David~M. Tiede, and Tijana Rajh.
+\newblock {Revealing the nature of trapping sites in nanocrystalline titanium
+  dioxide by selective surface modification}.
+\newblock {\em Journal of Physical Chemistry B}, 107(30):7368--7375, 2003.
+
+\bibitem{Frei1990}
+Heinz Frei, Donald~J. Fitzmaurice, and Michael Gr{\"{a}}tzel.
+\newblock {Surface Chelation of Semiconductors and Interfacial Electron
+  Transfer}.
+\newblock {\em Langmuir}, 6(1):198--206, 1990.
+
+\bibitem{Ramakrishna2001}
+G.~Ramakrishna, Hirendra~N. Ghosh, Ajay~K. Singh, Dipak~K. Palit, and Jai~P.
+  Mittal.
+\newblock {Dynamics of back-electron transfer processes of strongly coupled
+  triphenyl methane dyes adsorbed on TiO2 nanoparticle surface as studied by
+  fast and ultrafast visible spectroscopy}.
+\newblock {\em Journal of Physical Chemistry B}, 105(51):12786--12796, 2001.
+
+\bibitem{Mulliken1952}
+Robert~S. Mulliken.
+\newblock {Molecular Compounds and their Spectra. II}.
+\newblock {\em Journal of the American Chemical Society}, 74(3):811--824, 1952.
+
+\bibitem{Dewar1958}
+M~J~S Dewar, Ved~P Kubba, and R~Pettit.
+\newblock {625. New heteroaromatic compounds. Part II. Boron compounds
+  isoconjugate with indole{,} 2 : 3-benzofuran{,} and thionaphthen}.
+\newblock {\em J. Chem. Soc.}, (0):3076--3079, 1958.
+
+\bibitem{Dresselhaus2018}
+Mildred Dresselhaus, Gene Dresselhaus, Stephen~B. Cronin, and Antonio {Gomes
+  Souza Filho}.
+\newblock {Weak and Tight Binding Approximations for Simple Solid State
+  Models}.
+\newblock pages 29--54, 2018.
+
+\bibitem{Yang2018}
+Shuo~Ying Yang, Hao Yang, Elena Derunova, Stuart~S.P. Parkin, Binghai Yan, and
+  Mazhar~N. Ali.
+\newblock {Symmetry demanded topological nodal-line materials}.
+\newblock {\em Advances in Physics: X}, 3(1):265--297, 2018.
 
 \end{thebibliography}
