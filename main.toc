@@ -1,19 +1,49 @@
 \babel@toc {spanish}{}
-\contentsline {chapter}{Lista de abreviaturas}{\es@scroman {xiii}}%
+\contentsline {chapter}{Lista de abreviaturas}{\es@scroman {xv}}%
 \contentsline {chapter}{Resumen}{1}%
-\contentsline {chapter}{\numberline {1}Eficiencia de la transferencia electrónica fotoinducida en complejos colorante - TiO$_2$}{3}%
-\contentsline {section}{\numberline {1.1}Espectros de absorción óptica}{6}%
-\contentsline {section}{\numberline {1.2}Transferencia de carga}{8}%
-\contentsline {subsection}{\numberline {1.2.1}Eficiencia de la transferencia de carga}{9}%
-\contentsline {subsection}{\numberline {1.2.2}Cálculos de respuesta lineal}{12}%
-\contentsline {section}{\numberline {1.3}Conclusiones}{13}%
-\contentsline {chapter}{\numberline {2}Fotodopaje de nw ZnO wurtzita con catecol}{15}%
-\contentsline {section}{\numberline {2.1}Estructura electrónica en equilibrio}{19}%
-\contentsline {subsection}{\numberline {2.1.1}Energía de adsorción}{19}%
-\contentsline {subsection}{\numberline {2.1.2}Estructura de bandas}{22}%
-\contentsline {subsubsection}{Cálculo de estructura de bandas dentro del formalismo TB}{22}%
-\contentsline {subsubsection}{Cálculo de estructura de bandas en sistemas cat-nw}{25}%
-\contentsline {section}{\numberline {2.2}Estructura electrónica de no equilibrio}{31}%
-\contentsline {subsection}{\numberline {2.2.1}Espectros de absorción}{31}%
-\contentsline {subsection}{\numberline {2.2.2}Evolución temporal de las cargas de Mulliken y de las poblaciones electrónicas}{33}%
-\contentsline {section}{\numberline {2.3}Conclusiones}{41}%
+\contentsline {chapter}{\numberline {1}Introducción}{3}%
+\contentsline {section}{\numberline {1.1}Objetivos}{3}%
+\contentsline {section}{\numberline {1.2}Publicaciones}{3}%
+\contentsline {chapter}{\numberline {2}Métodos computacionales}{5}%
+\contentsline {section}{\numberline {2.1}Dinámica molecular}{5}%
+\contentsline {section}{\numberline {2.2}Estructura electrónica}{5}%
+\contentsline {section}{\numberline {2.3}Dinámica electrónica}{5}%
+\contentsline {subsection}{\numberline {2.3.1}Dinámica electrónica de sistemas periódicos}{5}%
+\contentsline {chapter}{\numberline {3}Modelo tight-binding diatómica - semiconductor}{7}%
+\contentsline {section}{\numberline {3.1}Conclusiones}{7}%
+\contentsline {chapter}{\numberline {4}Eficiencia de la transferencia electrónica fotoinducida en complejos colorante - TiO$_2$.}{9}%
+\contentsline {section}{\numberline {4.1}Espectros de absorción óptica}{12}%
+\contentsline {section}{\numberline {4.2}Transferencia de carga}{14}%
+\contentsline {subsection}{\numberline {4.2.1}Eficiencia de la transferencia de carga}{15}%
+\contentsline {subsection}{\numberline {4.2.2}Cálculos de respuesta lineal}{18}%
+\contentsline {section}{\numberline {4.3}Conclusiones}{19}%
+\contentsline {chapter}{\numberline {5}Transferencia de carga en nanowires de ZnO wurtzita sensibilizados con catecol.}{21}%
+\contentsline {section}{\numberline {5.1}Estructura electrónica en equilibrio}{25}%
+\contentsline {subsection}{\numberline {5.1.1}Energía de adsorción}{25}%
+\contentsline {subsection}{\numberline {5.1.2}Estructura de bandas}{27}%
+\contentsline {subsubsection}{Cálculo de estructura de bandas dentro del formalismo TB}{28}%
+\contentsline {subsubsection}{Cálculo de estructura de bandas en sistemas cat-nw}{31}%
+\contentsline {section}{\numberline {5.2}Estructura electrónica de no equilibrio}{37}%
+\contentsline {subsection}{\numberline {5.2.1}Espectros de absorción}{37}%
+\contentsline {subsection}{\numberline {5.2.2}Evolución temporal de las cargas de Mulliken y de las poblaciones electrónicas}{39}%
+\contentsline {section}{\numberline {5.3}Conclusiones}{48}%
+\contentsline {chapter}{\numberline {6}Propiedades catalíticas de nw de ZnO wurtzita.}{49}%
+\contentsline {section}{\numberline {6.1}Complejos 1H$_2$O + nw ZnO wurtzita}{51}%
+\contentsline {subsection}{\numberline {6.1.1}Análisis configuracional}{52}%
+\contentsline {section}{\numberline {6.2}Complejos nH$_2$O + nw ZnO wurtzita}{55}%
+\contentsline {subsection}{\numberline {6.2.1}Catálisis de agua sobre nw de ZnO wurtzita}{57}%
+\contentsline {subsection}{\numberline {6.2.2}Complejos 1slv agua-nw utilizando nw con distintos diámetros}{57}%
+\contentsline {section}{\numberline {6.3}Conclusiones}{59}%
+\contentsline {chapter}{\numberline {7}Conclusiones Generales}{61}%
+\gdef \the@ipfilectr {@-1}
+\contentsline {chapter}{\numberline {8}Transferencia de carga en nanowires de ZnO wurtzita sensibilizados con catecol.}{63}%
+\contentsline {section}{\numberline {8.1}Estructura electrónica en equilibrio}{67}%
+\contentsline {subsection}{\numberline {8.1.1}Energía de adsorción}{67}%
+\contentsline {subsection}{\numberline {8.1.2}Estructura de bandas}{69}%
+\contentsline {subsubsection}{Cálculo de estructura de bandas dentro del formalismo TB}{70}%
+\contentsline {subsubsection}{Cálculo de estructura de bandas en sistemas cat-nw}{73}%
+\contentsline {section}{\numberline {8.2}Estructura electrónica de no equilibrio}{79}%
+\contentsline {subsection}{\numberline {8.2.1}Espectros de absorción}{79}%
+\contentsline {subsection}{\numberline {8.2.2}Evolución temporal de las cargas de Mulliken y de las poblaciones electrónicas}{81}%
+\contentsline {section}{\numberline {8.3}Conclusiones}{90}%
+\gdef \the@ipfilectr {}

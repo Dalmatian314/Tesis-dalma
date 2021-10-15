@@ -1,4 +1,4 @@
-\chapter{Eficiencia de la transferencia electrónica fotoinducida en complejos colorante - TiO$_2$}
+\chapter{Eficiencia de la transferencia electrónica fotoinducida en complejos colorante - TiO$_2$.}
 
 Las celdas solares sensibilizadas por colorantes (DSSC por sus siglas en inglés: {\bf (D)}ye {\bf (S)}ensitized {\bf (S)}olar {\bf (C)}ells) son dispositivos fotovoltaicos que convierten la energía solar en corriente eléctrica. Desde la primera celda presentada en 1991 por O'Regan y Gr\"atzel \cite{ORegan1991} (celda Gr\"atzel) las DSSC se han convertido en una tecnología alternativa a las celdas solares convencionales \cite{Zheng2010,Chen2007} debido al bajo costo y facilidad en la fabricación, con una eficiencia que ha ido mejorando en los últimos años.  
 
@@ -73,15 +73,15 @@ En la tabla \ref{tabla_maximos} se comparan las energías de absorción ({\bf E$
    \hline
    \multicolumn{1}{c}{} & \multicolumn{2}{c}{E$_{ab}$ colorante libre / eV} & \multicolumn{2}{c}{E$_{ab}$ colorante adsorbido / eV} \\
    \hline
+    %\multicolumn{1}{c}{} & \multicolumn{1}{c}{Colorante} & \multicolumn{1}{c}{TD-DFTB}& \multicolumn{1}{c}{experimental}& \multicolumn{1}{c}{TD-DFTB}& \multicolumn{1}{c}{experimental}\\
     Colorante & TD-DFTB & experimental &  TD-DFTB & experimental \\
    \hline
-    ALZ & $2.85$ & $2.88\cite{Huber2000}$ & $2.44$ & $2.48\cite{Huber2000}$\\
-    CAT & $4.55$ & $4.43\cite{Wang2003}$ & $3.00$ & $3.18\cite{Wang2003}$\\ 
-    FSD101 & $2.40$ & $2.77\cite{Fang2017}$ & $2.43$ & $2.89\cite{Fang2017}$\\ 
-    \hline
+    ALZ & $2.85$ & $2.88$ \cite{Huber2000} & $2.44$ & $2.48$ \cite{Huber2000}\\
+    CAT & $4.55$ & $4.43$ \cite{Wang2003}  & $3.00$ & $3.18$ \cite{Wang2003}\\ 
+    FSD101 & $2.40$ & $2.77$ \cite{Fang2017} & $2.43$ & $2.89$\cite{Fang2017} 
  \end{tabular}
- }
-  \end{table}
+}
+\end{table}
   
  
 \hspace{1.5cm} 
@@ -165,13 +165,12 @@ La figura \ref{transferencia_carga} muestra la evolución de la distribución de
 
 La figura \ref{corriente} muestra los espectros de absorción de los complejos, los valores de corriente de transferencia de carga promedio en una ventana de simulación de $100$ fs y la eficiencia del proceso de inyección de carga. Estos últimos valores se obtuvieron calculando la pendiente de la carga con respecto al tiempo para cada una de las energías analizadas en la ventana de simulación, es decir, sintonizando láseres con ondas sinusoidales con longitudes de onda que se encuentran dentro del espectro solar a nivel del mar: ($300-2500$) nm o ($0.5-4.15$) eV. La energía absorbida (utilizada como entrada para el cálculo de la eficiencia) se calculó de la misma manera, a partir de la potencia calculada como la pendiente obtenida al ajustar la energía total del sistema en función del tiempo dentro de la ventana de simulación. En todos los casos, tanto la carga transferida como la energía total son lineales en el tiempo, dentro de la ventana, lo cual coincide con el hecho de que las simulaciones se realizan dentro del régimen de respuesta lineal.
 
-% %%% CORRIENTE
-% 
+ 
 Los valores de corriente obtenidos para CAT-TiO$_2$ (figura \ref{cat_c})son positivos en todas las longitudes de onda incidentes y se observa una corriente máxima (positiva) a $3.00$ eV. Este valor es el mismo que se obtuvo como máxima absorción del espectro de absorción óptica. El hecho de que el valor máximo de la corriente obtenida en función de las cargas del colorante sea positivo y se observe como consecuencia de iluminar el sistema con la longitud de onda de absorción máxima indica transferencia de electrones, lo cual concuerda con los resultados de trabajos previos \cite{Negre2012}. Para los otros dos colorantes, los valores positivos y negativos de la corriente promedio en los gráficos de la figura \ref{alz_c} y \ref{fsd101_c} indican la existencia de dos direcciones de inyección diferentes que operan en diferentes longitudes de onda dentro del espectro solar. Para ALZ-TiO$_2$ (figura \ref{alz_c}) en el rango ($1.8-3.32$) eV se observa transferencia de huecos y de $3.32$ eV a $4.15$ eV transferencia de electrones. En este caso, también se observa una corriente máxima en la absorción máxima a $2.44$ eV pero el valor es negativo, lo que significa que la molécula se carga negativamente en el tiempo, lo cual corresponde a un proceso de transferencia de huecos. En el gráfico de corriente de FSD101-TiO$_2$ (figura \ref{fsd101_c}), se observa transferencia de huecos en los intervalos ($1.8-2.3$) eV y ($2.5-4.15$) eV y transferencia de electrones en el intervalo ($2.3-2.5$) eV. La corriente es máxima cuando el sistema se ilumina con la longitud de onda del máximo de absorción a $2.43$ eV y muestra transferencia de electrones como el complejo CAT-TiO$_2$. En la figura \ref{corriente} también se observa que cuando se ilumina a energías más altas o longitudes de onda más cortas, que corresponde a la banda de absorción del NP (ver los espectros de absorción, figura \ref{espectros}) para ALZ-TiO$_2$ y FSD101-TiO$_2$ la carga se transfiere en sentido opuesto al obtenido al iluminarse con la energía que absorbe el colorante y este comportamiento no se observa para CAT-TiO$_2$. Finalmente, también se puede ver en la figura \ref{espectros} que los gráficos de corriente promedio revelan más información sobre las bandas de absorción del colorante en el sistema, con respecto al espectro de absorción y que muchas características se pueden determinar dentro del rango de absorción donde la banda de la NP domina el espectro. 
 
 Es una característica general de todos los sistemas estudiados que la transferencia de huecos ocurre solo por encima de un cierto umbral de energía. Esto se puede racionalizar en términos de los diagramas que se muestran en la figura \ref{transferencia_carga}. Las transiciones de energía más bajas son todas del tipo que se muestra en el gráfico de la izquierda de la figura \ref{nyp} a excepción de CAT para el que la transición energética más baja corresponde a la situación mostrada en el gráfico derecho de la misma figura. A medida que aumenta la energía de excitación, se promueven electrones de orbitales por debajo del HOMO, que deben solaparse con más fuerza con la BV de la NP para mostrar transferencia de huecos.
 % 
-% %%EFICIENCIA
+
 % 
 La eficiencia del proceso de transferencia de carga entre el colorante y la NP, ($\gamma$), se calculó para cada energía a partir de la relación entre el flujo de fotones absorbidos y el número de portadores de carga recolectados. Para obtener el número de fotones por segundo, se calculó la potencia absorbida en cada frecuencia como la pendiente de la energía en función del tiempo (como se mencionó anteriormente), mientras que los valores del número de portadores de carga se obtuvieron a partir de las corrientes promedio obtenidas previamente. Los resultados de la eficiencia se muestran en la figura \ref{corriente}.
 
