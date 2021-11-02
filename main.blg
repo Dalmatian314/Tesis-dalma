@@ -11,48 +11,57 @@ Repeated entry---line 1373 of file bib.bib
  : @article{Huber2000
  :                   ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 1529 of file bib.bib
+ : @article{Borgstrom2005
+ :                       ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in Dresselhaus2018
+Warning--empty journal in Angelis2011
+Warning--empty publisher in finnis
+Warning--empty publisher in giuliani
+Warning--empty title in Yella2011
 Warning--empty journal in Strehlow1973
 Warning--there's a number but no volume in Dewar1958
-You've used 40 entries,
+Warning--empty journal in Bella2015
+You've used 99 entries,
             1791 wiz_defined-function locations,
-            740 strings with 12068 characters,
-and the built_in function-call counts, 10969 in all, are:
-= -- 961
-> -- 610
-< -- 1
-+ -- 218
-- -- 178
-* -- 976
-:= -- 1795
-add.period$ -- 120
-call.type$ -- 40
-change.case$ -- 40
+            1106 strings with 26081 characters,
+and the built_in function-call counts, 28116 in all, are:
+= -- 2405
+> -- 1680
+< -- 5
++ -- 596
+- -- 497
+* -- 2505
+:= -- 4607
+add.period$ -- 296
+call.type$ -- 99
+change.case$ -- 95
 chr.to.int$ -- 0
-cite$ -- 43
-duplicate$ -- 364
-empty$ -- 967
-format.name$ -- 178
-if$ -- 2296
+cite$ -- 107
+duplicate$ -- 930
+empty$ -- 2421
+format.name$ -- 497
+if$ -- 5892
 int.to.chr$ -- 0
-int.to.str$ -- 40
-missing$ -- 40
-newline$ -- 203
-num.names$ -- 40
-pop$ -- 49
+int.to.str$ -- 99
+missing$ -- 102
+newline$ -- 497
+num.names$ -- 99
+pop$ -- 141
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 133
+skip$ -- 354
 stack$ -- 0
-substring$ -- 1032
-swap$ -- 45
-text.length$ -- 1
+substring$ -- 2580
+swap$ -- 134
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 114
-width$ -- 42
-write$ -- 439
-(There were 2 error messages)
+warning$ -- 8
+while$ -- 284
+width$ -- 101
+write$ -- 1079
+(There were 3 error messages)

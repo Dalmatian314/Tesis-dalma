@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="903"
+   height="627"
+   viewBox="0 0 903 627"
+   sodipodi:docname="h.svg"
+   inkscape:export-filename="/home/usuario/Escritorio/phD/Tesis-dalma/cap3/figs/h_1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.83972969"
+     inkscape:cx="426.32767"
+     inkscape:cy="313.79145"
+     inkscape:window-width="1854"
+     inkscape:window-height="1016"
+     inkscape:window-x="66"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="733.6134"
+       height="526.12396"
+       preserveAspectRatio="none"
+       xlink:href="h.png"
+       id="image10"
+       x="20.85944"
+       y="37.592564" />
+    <rect
+       style="opacity:0;fill:#483737;stroke:#4400c9;stroke-width:1.56029;stroke-linecap:round;stroke-linejoin:round"
+       id="rect849"
+       width="481.28406"
+       height="372.15912"
+       x="159.69456"
+       y="63.366352" />
+    <rect
+       style="opacity:0;fill:#483737;stroke:#4400c9;stroke-width:1.56029;stroke-linecap:round;stroke-linejoin:round"
+       id="rect987"
+       width="117.17139"
+       height="267.91986"
+       x="159.69456"
+       y="63.366352" />
+    <rect
+       style="opacity:0;fill:#483737;stroke:#4400c9;stroke-width:1.56029;stroke-linecap:round;stroke-linejoin:round"
+       id="rect991"
+       width="496.28198"
+       height="395.32169"
+       x="144.69661"
+       y="40.203773" />
+    <rect
+       style="opacity:0;fill:#483737;stroke:#4400c9;stroke-width:4.12829;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect995"
+       width="481.284"
+       height="395.32169"
+       x="159.69456"
+       y="40.203773" />
+    <rect
+       style="opacity:1;fill:#483737;fill-opacity:0.00425834;stroke:#4400c9;stroke-width:4.29815;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1099"
+       width="481.24072"
+       height="403.45163"
+       x="157.71623"
+       y="46.052197" />
+    <rect
+       style="opacity:1;fill:#8d3a2c;fill-opacity:0;stroke:#de004f;stroke-width:4.12829;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2312"
+       width="90.706581"
+       height="103.77007"
+       x="638.97864"
+       y="449.52548" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;line-height:1.25;font-family:sans-serif;stroke-width:1.18166"
+       x="358.04388"
+       y="29.53245"
+       id="text6654"
+       transform="scale(0.95778294,1.0440779)"><tspan
+         sodipodi:role="line"
+         id="tspan6652"
+         x="358.04388"
+         y="29.53245"
+         style="font-size:37.3333px;stroke-width:1.18166"
+         rotate="0 0 0 0 0 0 0">anillo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+       x="608.16241"
+       y="556.23108"
+       id="text12802"><tspan
+         sodipodi:role="line"
+         id="tspan12800"
+         x="608.16241"
+         y="556.23108" /><tspan
+         sodipodi:role="line"
+         x="608.16241"
+         y="599.00189"
+         id="tspan12806"
+         style="font-size:37.3333px">molécula </tspan><tspan
+         sodipodi:role="line"
+         x="608.16241"
+         y="636.23108"
+         style="font-size:37.3333px"
+         id="tspan4425" /></text>
+  </g>
+</svg>
