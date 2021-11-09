@@ -1,13 +1,47 @@
 \babel@toc {spanish}{}
-\contentsline {chapter}{Lista de abreviaturas}{\es@scroman {xi}}%
+\contentsline {chapter}{Lista de abreviaturas}{\es@scroman {xv}}%
 \contentsline {chapter}{Resumen}{1}%
-\contentsline {chapter}{\numberline {1}Transferencia de carga en complejos colorante-SC utilizando un modelo TB.}{3}%
-\contentsline {section}{\numberline {1.1}Modelo TB}{4}%
-\contentsline {subsection}{\numberline {1.1.1}Cálculo de la densidad de estados}{7}%
-\contentsline {subsection}{\numberline {1.1.2}Cálculo del espectro de absorción}{8}%
-\contentsline {subsection}{\numberline {1.1.3}Cálculo de transferencia de carga}{8}%
-\contentsline {section}{\numberline {1.2}Simulación de complejos colorante-SC utilizando el modelo propuesto.}{9}%
-\contentsline {subsection}{\numberline {1.2.1}Sistema sin acoplamiento}{10}%
-\contentsline {subsection}{\numberline {1.2.2}Sistema con acoplamiento}{12}%
-\contentsline {subsubsection}{Variación del acoplamiento}{14}%
-\contentsline {section}{\numberline {1.3}Conclusiones}{17}%
+\contentsline {chapter}{\numberline {1}Introducción}{3}%
+\contentsline {section}{\numberline {1.1}Objetivos}{3}%
+\contentsline {section}{\numberline {1.2}Publicaciones}{3}%
+\contentsline {chapter}{\numberline {2}Marco teórico}{5}%
+\contentsline {section}{\numberline {2.1}Dinámica molecular clásica}{5}%
+\contentsline {section}{\numberline {2.2}DFT-DFTB}{6}%
+\contentsline {section}{\numberline {2.3}TD-DFTB}{9}%
+\contentsline {subsection}{\numberline {2.3.1}Perturbación tipo pulso}{11}%
+\contentsline {subsection}{\numberline {2.3.2}Perturbación tipo láser continuo}{12}%
+\contentsline {section}{\numberline {2.4}DFTB con condiciones periódicas de contorno}{12}%
+\contentsline {chapter}{\numberline {3}Transferencia de carga en complejos colorante-SC utilizando un modelo TB.}{15}%
+\contentsline {section}{\numberline {3.1}Modelo TB}{16}%
+\contentsline {subsection}{\numberline {3.1.1}Cálculo de la densidad de estados}{19}%
+\contentsline {subsection}{\numberline {3.1.2}Cálculo del espectro de absorción}{20}%
+\contentsline {subsection}{\numberline {3.1.3}Cálculo de transferencia de carga}{20}%
+\contentsline {section}{\numberline {3.2}Simulación de complejos colorante-SC utilizando el modelo propuesto.}{21}%
+\contentsline {subsection}{\numberline {3.2.1}Sistema sin acoplamiento}{22}%
+\contentsline {subsection}{\numberline {3.2.2}Sistema con acoplamiento}{24}%
+\contentsline {subsubsection}{Variación del acoplamiento}{26}%
+\contentsline {section}{\numberline {3.3}Conclusiones}{29}%
+\contentsline {chapter}{\numberline {4}Eficiencia de la transferencia electrónica fotoinducida en complejos colorante - TiO$_2$.}{31}%
+\contentsline {section}{\numberline {4.1}Espectros de absorción óptica}{34}%
+\contentsline {section}{\numberline {4.2}Transferencia de carga}{36}%
+\contentsline {subsection}{\numberline {4.2.1}Eficiencia de la transferencia de carga}{37}%
+\contentsline {subsection}{\numberline {4.2.2}Cálculos de respuesta lineal}{40}%
+\contentsline {section}{\numberline {4.3}Conclusiones}{41}%
+\contentsline {chapter}{\numberline {5}Transferencia de carga en complejos nw de ZnO wurtzita + CAT.}{43}%
+\contentsline {section}{\numberline {5.1}Estructura electrónica en equilibrio}{47}%
+\contentsline {subsection}{\numberline {5.1.1}Energía de adsorción}{47}%
+\contentsline {subsection}{\numberline {5.1.2}Estructura de bandas}{49}%
+\contentsline {subsubsection}{Cálculo de estructura de bandas dentro del formalismo TB}{50}%
+\contentsline {subsubsection}{Cálculo de estructura de bandas en sistemas cat-nw}{53}%
+\contentsline {section}{\numberline {5.2}Estructura electrónica de no equilibrio}{59}%
+\contentsline {subsection}{\numberline {5.2.1}Espectros de absorción}{59}%
+\contentsline {subsection}{\numberline {5.2.2}Evolución temporal de las cargas de Mulliken y de las poblaciones electrónicas}{61}%
+\contentsline {section}{\numberline {5.3}Conclusiones}{70}%
+\contentsline {chapter}{\numberline {6}Propiedades catalíticas de nw de ZnO wurtzita.}{71}%
+\contentsline {section}{\numberline {6.1}Complejos 1H$_2$O + nw ZnO wurtzita}{73}%
+\contentsline {subsection}{\numberline {6.1.1}Análisis configuracional}{74}%
+\contentsline {section}{\numberline {6.2}Complejos nH$_2$O + nw ZnO wurtzita}{77}%
+\contentsline {subsection}{\numberline {6.2.1}Catálisis de agua sobre nw de ZnO wurtzita}{79}%
+\contentsline {subsection}{\numberline {6.2.2}Complejos 1slv agua-nw utilizando nw con distintos diámetros}{79}%
+\contentsline {section}{\numberline {6.3}Conclusiones}{81}%
+\contentsline {chapter}{\numberline {7}Conclusiones Generales}{83}%
