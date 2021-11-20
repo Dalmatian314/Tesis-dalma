@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.7.21)  9 NOV 2021 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.7.21)  20 NOV 2021 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -345,6 +345,432 @@ Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 \everycr=\toks29
 \minrowclearance=\skip78
 )
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen181
+\pgfutil@tempdimb=\dimen182
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box55
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen183
+\pgf@y=\dimen184
+\pgf@xa=\dimen185
+\pgf@ya=\dimen186
+\pgf@xb=\dimen187
+\pgf@yb=\dimen188
+\pgf@xc=\dimen189
+\pgf@yc=\dimen190
+\pgf@xd=\dimen191
+\pgf@yd=\dimen192
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count291
+\c@pgf@countb=\count292
+\c@pgf@countc=\count293
+\c@pgf@countd=\count294
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count295
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count296
+\pgfsyssoftpath@bigbuffer@items=\count297
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen193
+\pgfmath@count=\count298
+\pgfmath@box=\box56
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count299
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen194
+\pgf@picmaxx=\dimen195
+\pgf@picminy=\dimen196
+\pgf@picmaxy=\dimen197
+\pgf@pathminx=\dimen198
+\pgf@pathmaxx=\dimen199
+\pgf@pathminy=\dimen256
+\pgf@pathmaxy=\dimen257
+\pgf@xx=\dimen258
+\pgf@xy=\dimen259
+\pgf@yx=\dimen260
+\pgf@yy=\dimen261
+\pgf@zx=\dimen262
+\pgf@zy=\dimen263
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen264
+\pgf@path@lasty=\dimen265
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen266
+\pgf@shorten@start@additional=\dimen267
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count300
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen268
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen269
+\pgf@pt@y=\dimen270
+\pgf@pt@temp=\dimen271
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen272
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen273
+\pgf@sys@shading@range@num=\count301
+\pgf@shadingcount=\count302
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box60
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box61
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen274
+\pgf@nodesepend=\dimen275
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen276
+\pgffor@skip=\dimen277
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count303
+\pgfplotmarksize=\dimen278
+)
+\tikz@lastx=\dimen279
+\tikz@lasty=\dimen280
+\tikz@lastxsaved=\dimen281
+\tikz@lastysaved=\dimen282
+\tikz@lastmovetox=\dimen283
+\tikz@lastmovetoy=\dimen284
+\tikzleveldistance=\dimen285
+\tikzsiblingdistance=\dimen286
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count304
+\tikznumberofchildren=\count305
+\tikznumberofcurrentchild=\count306
+\tikz@fig@count=\count307
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count308
+\pgfmatrixcurrentcolumn=\count309
+\pgf@matrix@numberofcolumns=\count310
+)
+\tikz@expandcount=\count311
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/forest/forest.sty
+Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.callouts.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.callouts.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodepartlowerbox=\box66
+\pgfnodeparttwobox=\box67
+\pgfnodepartthreebox=\box68
+\pgfnodepartfourbox=\box69
+\pgfnodeparttwentybox=\box70
+\pgfnodepartnineteenbox=\box71
+\pgfnodeparteighteenbox=\box72
+\pgfnodepartseventeenbox=\box73
+\pgfnodepartsixteenbox=\box74
+\pgfnodepartfifteenbox=\box75
+\pgfnodepartfourteenbox=\box76
+\pgfnodepartthirteenbox=\box77
+\pgfnodeparttwelvebox=\box78
+\pgfnodepartelevenbox=\box79
+\pgfnodeparttenbox=\box80
+\pgfnodepartninebox=\box81
+\pgfnodeparteightbox=\box82
+\pgfnodepartsevenbox=\box83
+\pgfnodepartsixbox=\box84
+\pgfnodepartfivebox=\box85
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersection
+s.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+)
+\pgf@intersect@solutions=\count312
+) (/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks42
+\pgfopts@list@add@b@toks=\toks43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count313
+)
+(/usr/share/texlive/texmf-dist/tex/latex/elocalloc/elocalloc.sty
+Package: elocalloc 2016/12/15 v0.03 local allocation for LaTeX 2015+ (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(/usr/share/texlive/texmf-dist/tex/latex/inlinedef/inlinedef.sty
+Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
+\ID@toks=\toks44
+\ID@count=\count314
+)
+\ID@usercommands=\toks45
+\safeloop@depth=\count315
+\safeRKloop@depth=\count316
+\forest@temp@dimen=\dimen287
+\forest@temp@count=\count317
+\forest@n=\count318
+\forest@temp@global@count=\count319
+\forest@temp@toks=\toks46
+\forest@temparray@M=\count320
+\forest@temparray@N=\count321
+\forest@global@temparray@M=\count322
+\forest@global@temparray@N=\count323
+\forest@isnum@count=\count324
+\forest@isdim@nonintpart=\count325
+\forest@isdim@dimen=\dimen288
+\forest@sort@m=\count326
+\forest@sort@k=\count327
+\forest@sort@p=\count328
+\bracket@content=\toks47
+\bracket@afterthought=\toks48
+\forest@node@maxid=\count329
+\forest@process@left@M=\count330
+\forest@process@left@N=\count331
+\forest@process@right@M=\count332
+\forest@process@right@N=\count333
+\forest@process@saved@M=\count334
+\forest@process@saved@N=\count335
+\forest@process@result@M=\count336
+\forest@process@result@N=\count337
+\forest@process@n=\count338
+\forest@nodewalk@branch@toks=\toks49
+\forest@nodewalk@shortsteps@resolution=\toks50
+\forest@do@dynamics=\toks51
+\forest@box=\box86
+\forest@xg=\dimen289
+\forest@yg=\dimen290
+\forest@xs=\dimen291
+\forest@ys=\dimen292
+\forest@pi@toks=\toks52
+\forest@segment@toks=\toks53
+\forest@PIi@toks=\toks54
+\forest@PIii@toks=\toks55
+\forest@copy@in=\read4
+\forest@copy@out=\write4
+\forest@externalize@max@outer@n=\count339
+\forest@externalize@inner@n=\count340
+)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup6
@@ -368,32 +794,25 @@ s
 ) (./main.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
-
-
-LaTeX Warning: Label `anillo_dist' multiply defined.
-
-
-LaTeX Warning: Label `eq:prob_osc' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -431,17 +850,17 @@ LaTeX Info: Redefining \% on input line 91.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count291
-\scratchdimen=\dimen181
-\scratchbox=\box55
-\nofMPsegments=\count292
-\nofMParguments=\count293
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count294
-\MPscratchDim=\dimen182
-\MPnumerator=\count295
-\makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count341
+\scratchdimen=\dimen293
+\scratchbox=\box87
+\nofMPsegments=\count342
+\nofMParguments=\count343
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count344
+\MPscratchDim=\dimen294
+\MPnumerator=\count345
+\makeMPintoPDFobject=\count346
+\everyMPtoPDFconversion=\toks57
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -461,10 +880,10 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-Package chemgreek Info: Activating mapping `default' on line 91.
+Package chemgreek Info: Activating mapping `default' on line 94.
 
 
-(./caratula/caratula.tex
+ABD: EveryShipout initializing macros (./caratula/caratula.tex
 Package epstopdf Info: Source file: </home/usuario/Escritorio/phD/escritura/fig
 /unc.eps>
 (epstopdf)                    date: 2020-05-20 13:11:20
@@ -478,7 +897,7 @@ hD/escritura/fig/unc-eps-converted-to.pdf /home/usuario/Escritorio/phD/escritur
 a/fig/unc.eps>
 (epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
-</home/usuario/Escritorio/phD/escritura/fig/unc-eps-converted-to.pdf, id=1, 341
+</home/usuario/Escritorio/phD/escritura/fig/unc-eps-converted-to.pdf, id=4, 341
 .275pt x 170.6375pt>
 File: /home/usuario/Escritorio/phD/escritura/fig/unc-eps-converted-to.pdf Graph
 ic file (type pdf)
@@ -499,7 +918,7 @@ hD/escritura/fig/fcq-eps-converted-to.pdf /home/usuario/Escritorio/phD/escritur
 a/fig/fcq.eps>
 (epstopdf)             \includegraphics on input line 48.
 Package epstopdf Info: Output file is already uptodate.
-</home/usuario/Escritorio/phD/escritura/fig/fcq-eps-converted-to.pdf, id=2, 513
+</home/usuario/Escritorio/phD/escritura/fig/fcq-eps-converted-to.pdf, id=5, 513
 .92pt x 342.27875pt>
 File: /home/usuario/Escritorio/phD/escritura/fig/fcq-eps-converted-to.pdf Graph
 ic file (type pdf)
@@ -552,8 +971,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [5])
-\tf@toc=\write3
-\openout3 = `main.toc'.
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
  [6] (./main.lot
 LaTeX Info: Redefining \. on input line 1.
@@ -565,8 +984,8 @@ $\OT1/cmr/m/n/12 ) pa-ra las ex-ci-ta-cio-nes de m^^Sas ba-ja energ^^S^^Pa
  []
 
 )
-\tf@lot=\write4
-\openout4 = `main.lot'.
+\tf@lot=\write6
+\openout6 = `main.lot'.
 
  [7
 
@@ -576,7 +995,7 @@ $\OT1/cmr/m/n/12 ) pa-ra las ex-ci-ta-cio-nes de m^^Sas ba-ja energ^^S^^Pa
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
-Overfull \hbox (8.4731pt too wide) in paragraph at lines 7--7
+Overfull \hbox (8.4731pt too wide) in paragraph at lines 9--9
  [][] []\OT1/cmr/bx/sc/12 Izquierda \OT1/cmr/m/n/12 Es-que-ma del ani-llo se-mi
 -con-duc-tor aco-pla-do a una diat^^Somi- 
  []
@@ -589,7 +1008,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...tico con energı́a $0.6$ u.a.\relax }}{22}
+l.10 ...ico con energı́a $0.6$ u.a.\relax }}{26}
                                                   %
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -602,7 +1021,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 ...tico con energı́a $0.6$ u.a.\relax }}{24}
+l.11 ...ico con energı́a $0.6$ u.a.\relax }}{28}
                                                   %
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -615,7 +1034,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 ...co con energı́a $0.36$ u.a.\relax }}{25}
+l.12 ...co con energı́a $0.36$ u.a.\relax }}{29}
                                                   %
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -628,7 +1047,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 ...co con energı́a $0.36$ u.a.\relax }}{26}
+l.13 ...co con energı́a $0.36$ u.a.\relax }}{30}
                                                   %
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -641,38 +1060,15 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 ...\textbf {(d)} $\gamma = 0.1$ \relax }}{27}
+l.15 ...\textbf {(d)} $\gamma = 0.1$ \relax }}{31}
                                                   %
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-! Package inputenc Error: Unicode character ́ (U+0301)
-(inputenc)                not set up for use with LaTeX.
+Underfull \vbox (badness 1715) has occurred while \output is active []
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 ...ientos bajo o $\gamma = 0.02$\relax }}{28}
-                                                  %
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! Package inputenc Error: Unicode character ́ (U+0301)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 ...mientos bajo o $\gamma = 0.1$\relax }}{28}
-                                                  %
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[9
+ [9
 
 ]
 
@@ -683,44 +1079,49 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 ...-0.3$ como parámetros fijos.\relax }}{29}
+l.16 ...ientos bajo o $\gamma = 0.02$\relax }}{32}
                                                   %
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Overfull \hbox (1.70453pt too wide) in paragraph at lines 28--28
+! Package inputenc Error: Unicode character ́ (U+0301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...mientos bajo o $\gamma = 0.1$\relax }}{32}
+                                                  %
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ́ (U+0301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...-0.3$ como parámetros fijos.\relax }}{33}
+                                                  %
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (1.70453pt too wide) in paragraph at lines 30--30
  [][] []\OT1/cmr/m/n/12 Evoluci^^Son de la car-ga du-ran-te las si-mu-la-cio-ne
 s de in-yec-ci^^Son electr^^Soni- 
  []
 
-
-Package natbib Warning: Citation `Djurisic2006' on page \es@scroman {x} undefin
-ed on input line 39.
-
-
-Underfull \vbox (badness 1769) has occurred while \output is active []
-
- [10]
-
-Package natbib Warning: Citation `Dresselhaus2018' on page \es@scroman {xi} und
-efined on input line 45.
-
-
-Package natbib Warning: Citation `Yang2018' on page \es@scroman {xi} undefined 
-on input line 47.
-
-[11]
-
-Package natbib Warning: Citation `Angelis2011' on page \es@scroman {xii} undefi
-ned on input line 63.
-
-
-Underfull \vbox (badness 1072) has occurred while \output is active []
+[10] [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12])
-\tf@lof=\write5
-\openout5 = `main.lof'.
+\tf@lof=\write7
+\openout7 = `main.lof'.
 
 
 (./simbolos/simbolos.tex [13] [14
@@ -731,13 +1132,13 @@ Overfull \hbox (22.07448pt too wide) in alignment at lines 9--32
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 42--43
+Underfull \hbox (badness 2970) in paragraph at lines 44--45
 []|\OT1/cmr/m/it/12 Real-Time Time-Dependent Den-sity Fun-ctio-nal Tight-Bindin
 g
  []
 
 
-Overfull \hbox (22.07448pt too wide) in alignment at lines 32--49
+Overfull \hbox (22.07448pt too wide) in alignment at lines 32--51
  [] [] 
  []
 
@@ -757,14 +1158,12 @@ This may cause the page layout to be inconsistent, however.
 
 ]
 Cap\'{\i }tulo 1.
-) (./cap2/cap2.tex [3]
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [4
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
-Cap\'{\i }tulo 2.
-[5]
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [4]
 
 ! Package inputenc Error: Unicode character ́ (U+0301)
 (inputenc)                not set up for use with LaTeX.
@@ -773,7 +1172,129 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...ntes mencionadosvpara obtener la energı́
+l.46 ...en complejos de rutenio, pero hoy en dı́
+                                                  a existen muchos tipos de ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ́ (U+0301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...des de diseño, el variar las caracterı́
+                                                  sticas de  los colorantes ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Package epstopdf Info: Source file: <cap1/figs/dssc.eps>
+(epstopdf)                    date: 2021-11-10 19:58:32
+(epstopdf)                    size: 138295 bytes
+(epstopdf)             Output file: <cap1/figs/dssc-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-11-10 19:59:28
+(epstopdf)                    size: 80549 bytes
+(epstopdf)             Command: <repstopdf --outfile=cap1/figs/dssc-eps-convert
+ed-to.pdf cap1/figs/dssc.eps>
+(epstopdf)             \includegraphics on input line 51.
+Package epstopdf Info: Output file is already uptodate.
+<cap1/figs/dssc-eps-converted-to.pdf, id=92, 1062.97125pt x 430.60875pt>
+File: cap1/figs/dssc-eps-converted-to.pdf Graphic file (type pdf)
+<use cap1/figs/dssc-eps-converted-to.pdf>
+Package pdftex.def Info: cap1/figs/dssc-eps-converted-to.pdf  used on input lin
+e 51.
+(pdftex.def)             Requested size: 421.41803pt x 170.71652pt.
+
+Overfull \hbox (3.16435pt too wide) in paragraph at lines 51--52
+ [][] 
+ []
+
+
+Underfull \vbox (badness 6157) has occurred while \output is active []
+
+ [5]
+
+! Package inputenc Error: Unicode character ́ (U+0301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 ...istemas fuera del equilibrio). La teorı́
+                                                  a del funcional de la dens...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ́ (U+0301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 ...todo tight-binding derivado de la teorı́
+                                                  a del funcional de la dens...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+[6 <./cap1/figs/dssc-eps-converted-to.pdf>]
+
+! Package inputenc Error: Unicode character ́ (U+0301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ...e se fundamenta la captación de energı́
+                                                  a en sistemas nanoestructu...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character ́ (U+0301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ...nducida en sistemas colorante-nanopartı́
+                                                  cula.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+) (./cap2/cap2.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [7]
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [8
+
+]
+Cap\'{\i }tulo 2.
+[9]
+
+! Package inputenc Error: Unicode character ́ (U+0301)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...ntes mencionados para obtener la energı́
                                                   a como un funcional de la ...
 
 You may provide a definition with
@@ -787,7 +1308,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...r lo tanto es posible obtener la energı́
+l.14 ...r lo tanto es posible obtener la energı́
                                                   a total del sistema sin re...
 
 You may provide a definition with
@@ -801,7 +1322,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...chos cuerpos. De esta manera, la energı́
+l.14 ...chos cuerpos. De esta manera, la energı́
                                                   a total puede expresarse c...
 
 You may provide a definition with
@@ -810,10 +1331,10 @@ You may provide a definition with
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
- [6]
-Overfull \hbox (7.87523pt too wide) in paragraph at lines 34--35
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+ [10]
+Overfull \hbox (7.87523pt too wide) in paragraph at lines 33--34
 \OT1/cmr/m/n/12 energ^^S^^Pa cin^^Seti-ca y el po-ten-cial de-bi-do a in-ter-ac
 -cio-nes ex-ter-nas (in-ter-ac-cio-nes electr^^Son-
  []
@@ -826,7 +1347,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 ...s de aproximaciones a métodos basados ​
+l.35 ...s de aproximaciones a métodos basados ​
                                                   ​en Hartree-Fock o DFT. ...
 
 You may provide a definition with
@@ -840,31 +1361,27 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 ...e aproximaciones a métodos basados ​​
+l.35 ...e aproximaciones a métodos basados ​​
                                                   en Hartree-Fock o DFT. En ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
-[7]
-LaTeX Info: Redefining \. on input line 73.
-LaTeX Info: Redefining \% on input line 73.
- [8]
-LaTeX Info: Redefining \. on input line 99.
-LaTeX Info: Redefining \% on input line 99.
- [9]
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
- [10]
-
-Package natbib Warning: Citation `Yabana1996' on page 11 undefined on input lin
-e 146.
-
-LaTeX Info: Redefining \. on input line 166.
-LaTeX Info: Redefining \% on input line 166.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
 [11]
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+ [12]
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+ [13]
+LaTeX Info: Redefining \. on input line 121.
+LaTeX Info: Redefining \% on input line 121.
+ [14]
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
+ [15]
 
 ! Package inputenc Error: Unicode character ́ (U+0301)
 (inputenc)                not set up for use with LaTeX.
@@ -873,7 +1390,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.177 ...po magnético. Esta aproximación es vá
+l.183 ...po magnético. Esta aproximación es vá
                                                   lida siempre y cuando la i...
 
 You may provide a definition with
@@ -887,7 +1404,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.177 ...a siempre y cuando la intensidad del lá
+l.183 ...a siempre y cuando la intensidad del lá
                                                   ser sea lo suficientemente...
 
 You may provide a definition with
@@ -901,12 +1418,15 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.177 ...l láser sea lo suficientemente pequeñ
+l.183 ...l láser sea lo suficientemente pequeñ
                                                   a como para no acelerar a ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
+[16]
 
 ! Package inputenc Error: Unicode character ́ (U+0301)
 (inputenc)                not set up for use with LaTeX.
@@ -915,7 +1435,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.180 ...za de las excitaciones de una manera má
+l.186 ...za de las excitaciones de una manera má
                                                   s profunda cuando se anali...
 
 You may provide a definition with
@@ -929,7 +1449,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.180 ... profunda cuando se analiza la evolució
+l.186 ... profunda cuando se analiza la evolució
                                                   n temporal de las poblacio...
 
 You may provide a definition with
@@ -943,21 +1463,18 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.180 ...mporal de las poblaciones o la variació
+l.186 ...mporal de las poblaciones o la variació
                                                   n de la densidad de carga ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-LaTeX Info: Redefining \. on input line 190.
-LaTeX Info: Redefining \% on input line 190.
-[12]) (./cap3/cap3.tex
+LaTeX Info: Redefining \. on input line 216.
+LaTeX Info: Redefining \% on input line 216.
+[17]) (./cap3/cap3.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [13]
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [14]
+ [18]
 Cap\'{\i }tulo 3.
 
 ! Package inputenc Error: Unicode character ́ (U+0301)
@@ -967,7 +1484,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 ...onductor. Si bien las simulaciones atomı́
+l.5 ...te al SC. Si bien las simulaciones atomı́
                                                   sticas dan una figura muy ...
 
 You may provide a definition with
@@ -987,9 +1504,9 @@ You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \vbox (badness 3291) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15
+ [19
 
 ]
 
@@ -1020,10 +1537,6 @@ l.17 ... que la interacción de cada uno de los ́
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-
-Package natbib Warning: Citation `sutton' on page 16 undefined on input line 22
-.
-
 Package epstopdf Info: Source file: <cap3/figs/ring_nodist_solo.eps>
 (epstopdf)                    date: 2021-10-21 17:33:57
 (epstopdf)                    size: 47712 bytes
@@ -1033,27 +1546,27 @@ o.pdf>
 (epstopdf)                    size: 48609 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/ring_nodist_solo
 -eps-converted-to.pdf cap3/figs/ring_nodist_solo.eps>
-(epstopdf)             \includegraphics on input line 26.
+(epstopdf)             \includegraphics on input line 21.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/ring_nodist_solo-eps-converted-to.pdf, id=127, 161.60374pt x 138.517
+<cap3/figs/ring_nodist_solo-eps-converted-to.pdf, id=155, 161.60374pt x 138.517
 5pt>
 File: cap3/figs/ring_nodist_solo-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/ring_nodist_solo-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/ring_nodist_solo-eps-converted-to.pdf  used 
-on input line 26.
+on input line 21.
 (pdftex.def)             Requested size: 132.77977pt x 113.81102pt.
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
 
 Package Fancyhdr Warning: \headheight is too small (15.71667pt): 
 Make it at least 30.21667pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[16]
-LaTeX Info: Redefining \. on input line 65.
-LaTeX Info: Redefining \% on input line 65.
- [17 <./cap3/figs/ring_nodist_solo-eps-converted-to.pdf>]
+[20]
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [21 <./cap3/figs/ring_nodist_solo-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap3/figs/ring_dist_solo.eps>
 (epstopdf)                    date: 2021-10-21 16:04:28
 (epstopdf)                    size: 46260 bytes
@@ -1063,14 +1576,14 @@ pdf>
 (epstopdf)                    size: 47593 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/ring_dist_solo-e
 ps-converted-to.pdf cap3/figs/ring_dist_solo.eps>
-(epstopdf)             \includegraphics on input line 77.
+(epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/ring_dist_solo-eps-converted-to.pdf, id=139, 131.49126pt x 139.52126
+<cap3/figs/ring_dist_solo-eps-converted-to.pdf, id=167, 131.49126pt x 139.52126
 pt>
 File: cap3/figs/ring_dist_solo-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/ring_dist_solo-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/ring_dist_solo-eps-converted-to.pdf  used on
- input line 77.
+ input line 72.
 (pdftex.def)             Requested size: 107.26373pt x 113.81102pt.
 
 
@@ -1081,7 +1594,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.82 ...tro $\gamma$. La interacción entre los ́
+l.77 ...tro $\gamma$. La interacción entre los ́
                                                   atomos de la molécula se ...
 
 You may provide a definition with
@@ -1095,13 +1608,13 @@ Package epstopdf Info: Source file: <cap3/figs/ring_dist.eps>
 (epstopdf)                    size: 62977 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/ring_dist-eps-co
 nverted-to.pdf cap3/figs/ring_dist.eps>
-(epstopdf)             \includegraphics on input line 86.
+(epstopdf)             \includegraphics on input line 81.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/ring_dist-eps-converted-to.pdf, id=140, 225.84375pt x 139.52126pt>
+<cap3/figs/ring_dist-eps-converted-to.pdf, id=168, 225.84375pt x 139.52126pt>
 File: cap3/figs/ring_dist-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/ring_dist-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/ring_dist-eps-converted-to.pdf  used on inpu
-t line 86.
+t line 81.
 (pdftex.def)             Requested size: 184.2316pt x 113.81102pt.
 Package epstopdf Info: Source file: <cap3/figs/h_1.eps>
 (epstopdf)                    date: 2021-10-22 14:38:53
@@ -1111,17 +1624,21 @@ Package epstopdf Info: Source file: <cap3/figs/h_1.eps>
 (epstopdf)                    size: 413020 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/h_1-eps-converte
 d-to.pdf cap3/figs/h_1.eps>
-(epstopdf)             \includegraphics on input line 87.
+(epstopdf)             \includegraphics on input line 82.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/h_1-eps-converted-to.pdf, id=141, 571.13374pt x 450.68375pt>
+<cap3/figs/h_1-eps-converted-to.pdf, id=169, 571.13374pt x 450.68375pt>
 File: cap3/figs/h_1-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/h_1-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/h_1-eps-converted-to.pdf  used on input line
- 87.
+ 82.
 (pdftex.def)             Requested size: 162.25192pt x 128.0374pt.
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
-[18 <./cap3/figs/ring_dist_solo-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+[22 <./cap3/figs/ring_dist_solo-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `anillo_dist_molohenberg1964' on page 23 undefined on 
+input line 89.
+
 
 ! Package inputenc Error: Unicode character − (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -1130,7 +1647,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 ...miento, $\gamma$, se encuentra en H$_{N−
+l.91 ...miento, $\gamma$, se encuentra en H$_{N−
                                                   2,N−3}$ y H$_{N−3,N−...
 
 You may provide a definition with
@@ -1144,7 +1661,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 ..., $\gamma$, se encuentra en H$_{N−2,N−
+l.91 ..., $\gamma$, se encuentra en H$_{N−2,N−
                                                   3}$ y H$_{N−3,N−2}$, e...
 
 You may provide a definition with
@@ -1158,7 +1675,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 ... encuentra en H$_{N−2,N−3}$ y H$_{N−
+l.91 ... encuentra en H$_{N−2,N−3}$ y H$_{N−
                                                   3,N−2}$, entre los dos b...
 
 You may provide a definition with
@@ -1172,43 +1689,26 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 ...ntra en H$_{N−2,N−3}$ y H$_{N−3,N−
+l.91 ...ntra en H$_{N−2,N−3}$ y H$_{N−3,N−
                                                   2}$, entre los dos bloques.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-LaTeX Info: Redefining \. on input line 109.
-LaTeX Info: Redefining \% on input line 109.
-[19 <./cap3/figs/ring_dist-eps-converted-to.pdf> <./cap3/figs/h_1-eps-converted
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+[23 <./cap3/figs/ring_dist-eps-converted-to.pdf> <./cap3/figs/h_1-eps-converted
 -to.pdf>]
-
-Package natbib Warning: Citation `finnis' on page 20 undefined on input line 10
-9.
-
-
-Package natbib Warning: Citation `giuliani' on page 20 undefined on input line 
-114.
-
-
-Overfull \hbox (11.95297pt too wide) in paragraph at lines 134--135
+Overfull \hbox (11.95297pt too wide) in paragraph at lines 129--130
 []\OT1/cmr/m/n/12 Para es-tu-diar la trans-fe-ren-cia de car-ga fue ne-ce-sa-ri
 o cal-cu-lar la din^^Sami-ca electr^^Soni-
  []
 
-LaTeX Info: Redefining \. on input line 137.
-LaTeX Info: Redefining \% on input line 137.
-[20]
-LaTeX Info: Redefining \. on input line 162.
-LaTeX Info: Redefining \% on input line 162.
- [21]
-
-Package natbib Warning: Citation `Negre2014' on page 22 undefined on input line
- 167.
-
-
-Package natbib Warning: Citation `Borgstrom2005' on page 22 undefined on input 
-line 167.
-
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+[24]
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
+ [25]
 Package epstopdf Info: Source file: <cap3/figs/fig_s_acople_diat.eps>
 (epstopdf)                    date: 2021-10-26 15:47:00
 (epstopdf)                    size: 1030709 bytes
@@ -1218,16 +1718,17 @@ to.pdf>
 (epstopdf)                    size: 1053420 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/fig_s_acople_dia
 t-eps-converted-to.pdf cap3/figs/fig_s_acople_diat.eps>
-(epstopdf)             \includegraphics on input line 174.
+(epstopdf)             \includegraphics on input line 167.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/fig_s_acople_diat-eps-converted-to.pdf, id=163, 2073.7475pt x 714.67
+<cap3/figs/fig_s_acople_diat-eps-converted-to.pdf, id=190, 2073.7475pt x 714.67
 pt>
 File: cap3/figs/fig_s_acople_diat-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/fig_s_acople_diat-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/fig_s_acople_diat-eps-converted-to.pdf  used
- on input line 174.
+ on input line 167.
 (pdftex.def)             Requested size: 412.7803pt x 142.26378pt.
 
+
 ! Package inputenc Error: Unicode character ́ (U+0301)
 (inputenc)                not set up for use with LaTeX.
 
@@ -1235,7 +1736,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 ...ctromagnético con energı́a $0.6$ u.a.}
+l.168 ...ctromagnético con energı́a $0.6$ u.a.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1248,14 +1749,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 ...ctromagnético con energı́a $0.6$ u.a.}
+l.168 ...ctromagnético con energı́a $0.6$ u.a.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-LaTeX Info: Redefining \. on input line 181.
-LaTeX Info: Redefining \% on input line 181.
-[22 <./cap3/figs/fig_s_acople_diat-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 174.
+LaTeX Info: Redefining \% on input line 174.
+[26 <./cap3/figs/fig_s_acople_diat-eps-converted-to.pdf>]
 
 ! Package inputenc Error: Unicode character ́ (U+0301)
 (inputenc)                not set up for use with LaTeX.
@@ -1264,21 +1765,21 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.186 ... continua de tipo láser con la energı́
+l.177 ... continua de tipo láser con la energı́
                                                   a de la transición de int...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 186.
+LaTeX Warning: Command \r invalid in math mode on input line 177.
 
 
-Underfull \vbox (badness 4303) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 189.
-LaTeX Info: Redefining \% on input line 189.
- [23]
+LaTeX Info: Redefining \. on input line 180.
+LaTeX Info: Redefining \% on input line 180.
+ [27]
 Package epstopdf Info: Source file: <cap3/figs/fig_s_acople_diat_hueco.eps>
 (epstopdf)                    date: 2021-10-26 15:47:00
 (epstopdf)                    size: 1031821 bytes
@@ -1288,15 +1789,15 @@ erted-to.pdf>
 (epstopdf)                    size: 1053163 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/fig_s_acople_dia
 t_hueco-eps-converted-to.pdf cap3/figs/fig_s_acople_diat_hueco.eps>
-(epstopdf)             \includegraphics on input line 192.
+(epstopdf)             \includegraphics on input line 183.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/fig_s_acople_diat_hueco-eps-converted-to.pdf, id=172, 2073.7475pt x 
+<cap3/figs/fig_s_acople_diat_hueco-eps-converted-to.pdf, id=200, 2073.7475pt x 
 714.67pt>
 File: cap3/figs/fig_s_acople_diat_hueco-eps-converted-to.pdf Graphic file (type
  pdf)
 <use cap3/figs/fig_s_acople_diat_hueco-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/fig_s_acople_diat_hueco-eps-converted-to.pdf
-  used on input line 192.
+  used on input line 183.
 (pdftex.def)             Requested size: 412.7803pt x 142.26378pt.
 
 
@@ -1307,7 +1808,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193 ...ctromagnético con energı́a $0.6$ u.a.}
+l.184 ...ctromagnético con energı́a $0.6$ u.a.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1320,7 +1821,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193 ...ctromagnético con energı́a $0.6$ u.a.}
+l.184 ...ctromagnético con energı́a $0.6$ u.a.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1334,15 +1835,15 @@ Package epstopdf Info: Source file: <cap3/figs/fig_c_acople_ghost.eps>
 (epstopdf)                    size: 1958947 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/fig_c_acople_gho
 st-eps-converted-to.pdf cap3/figs/fig_c_acople_ghost.eps>
-(epstopdf)             \includegraphics on input line 207.
+(epstopdf)             \includegraphics on input line 198.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/fig_c_acople_ghost-eps-converted-to.pdf, id=173, 2073.7475pt x 728.7
+<cap3/figs/fig_c_acople_ghost-eps-converted-to.pdf, id=201, 2073.7475pt x 728.7
 225pt>
 File: cap3/figs/fig_c_acople_ghost-eps-converted-to.pdf Graphic file (type pdf)
 
 <use cap3/figs/fig_c_acople_ghost-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/fig_c_acople_ghost-eps-converted-to.pdf  use
-d on input line 207.
+d on input line 198.
 (pdftex.def)             Requested size: 388.63684pt x 136.5733pt.
 
 ! Package inputenc Error: Unicode character ́ (U+0301)
@@ -1352,7 +1853,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.208 ...tromagnético con energı́a $0.36$ u.a.}
+l.199 ...tromagnético con energı́a $0.36$ u.a.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1365,14 +1866,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.208 ...tromagnético con energı́a $0.36$ u.a.}
+l.199 ...tromagnético con energı́a $0.36$ u.a.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-LaTeX Info: Redefining \. on input line 217.
-LaTeX Info: Redefining \% on input line 217.
-[24 <./cap3/figs/fig_s_acople_diat_hueco-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 208.
+LaTeX Info: Redefining \% on input line 208.
+[28 <./cap3/figs/fig_s_acople_diat_hueco-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap3/figs/fig_c_acople_ghost_hueco.eps>
 (epstopdf)                    date: 2021-10-26 15:47:00
 (epstopdf)                    size: 1875475 bytes
@@ -1382,15 +1883,15 @@ verted-to.pdf>
 (epstopdf)                    size: 1950351 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/fig_c_acople_gho
 st_hueco-eps-converted-to.pdf cap3/figs/fig_c_acople_ghost_hueco.eps>
-(epstopdf)             \includegraphics on input line 226.
+(epstopdf)             \includegraphics on input line 216.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/fig_c_acople_ghost_hueco-eps-converted-to.pdf, id=179, 2073.7475pt x
+<cap3/figs/fig_c_acople_ghost_hueco-eps-converted-to.pdf, id=208, 2073.7475pt x
  728.7225pt>
 File: cap3/figs/fig_c_acople_ghost_hueco-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use cap3/figs/fig_c_acople_ghost_hueco-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/fig_c_acople_ghost_hueco-eps-converted-to.pd
-f  used on input line 226.
+f  used on input line 216.
 (pdftex.def)             Requested size: 388.63684pt x 136.5733pt.
 
 
@@ -1401,7 +1902,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.227 ...tromagnético con energı́a $0.36$ u.a.}
+l.217 ...tromagnético con energı́a $0.36$ u.a.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1414,7 +1915,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.227 ...tromagnético con energı́a $0.36$ u.a.}
+l.217 ...tromagnético con energı́a $0.36$ u.a.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1422,9 +1923,9 @@ You may provide a definition with
 
 Underfull \vbox (badness 1577) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 233.
-LaTeX Info: Redefining \% on input line 233.
- [25 <./cap3/figs/fig_c_acople_ghost-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 222.
+LaTeX Info: Redefining \% on input line 222.
+ [29 <./cap3/figs/fig_c_acople_ghost-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap3/figs/fig_gamas_todo.eps>
 (epstopdf)                    date: 2021-11-02 14:27:05
 (epstopdf)                    size: 1209804 bytes
@@ -1434,19 +1935,15 @@ pdf>
 (epstopdf)                    size: 1209716 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/fig_gamas_todo-e
 ps-converted-to.pdf cap3/figs/fig_gamas_todo.eps>
-(epstopdf)             \includegraphics on input line 239.
+(epstopdf)             \includegraphics on input line 229.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/fig_gamas_todo-eps-converted-to.pdf, id=185, 1529.715pt x 643.40375p
+<cap3/figs/fig_gamas_todo-eps-converted-to.pdf, id=214, 1529.715pt x 643.40375p
 t>
 File: cap3/figs/fig_gamas_todo-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/fig_gamas_todo-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/fig_gamas_todo-eps-converted-to.pdf  used on
- input line 239.
+ input line 229.
 (pdftex.def)             Requested size: 338.24228pt x 142.26378pt.
-LaTeX Info: Redefining \. on input line 245.
-LaTeX Info: Redefining \% on input line 245.
- [26 <./cap3/figs/fig_c_acople_ghost_hueco-eps-converted-to.pdf> <./cap3/figs/f
-ig_gamas_todo-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap3/figs/fig_gamas_1.eps>
 (epstopdf)                    date: 2021-11-02 14:28:41
 (epstopdf)                    size: 2001316 bytes
@@ -1456,16 +1953,16 @@ Package epstopdf Info: Source file: <cap3/figs/fig_gamas_1.eps>
 (epstopdf)                    size: 2052834 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/fig_gamas_1-eps-
 converted-to.pdf cap3/figs/fig_gamas_1.eps>
-(epstopdf)             \includegraphics on input line 248.
+(epstopdf)             \includegraphics on input line 237.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/fig_gamas_1-eps-converted-to.pdf, id=193, 2075.755pt x 599.23875pt>
+<cap3/figs/fig_gamas_1-eps-converted-to.pdf, id=215, 2075.755pt x 599.23875pt>
 File: cap3/figs/fig_gamas_1-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/fig_gamas_1-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/fig_gamas_1-eps-converted-to.pdf  used on in
-put line 248.
+put line 237.
 (pdftex.def)             Requested size: 423.7905pt x 122.34692pt.
 
-Overfull \hbox (5.53682pt too wide) in paragraph at lines 248--249
+Overfull \hbox (5.53682pt too wide) in paragraph at lines 237--238
  [][] 
  []
 
@@ -1477,7 +1974,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.249 ...a = 0.05$ y \textbf{(d)} $\gamma = 0.1$ }
+l.238 ...a = 0.05$ y \textbf{(d)} $\gamma = 0.1$ }
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1490,11 +1987,15 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.249 ...a = 0.05$ y \textbf{(d)} $\gamma = 0.1$ }
+l.238 ...a = 0.05$ y \textbf{(d)} $\gamma = 0.1$ }
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
+LaTeX Info: Redefining \. on input line 243.
+LaTeX Info: Redefining \% on input line 243.
+[30 <./cap3/figs/fig_c_acople_ghost_hueco-eps-converted-to.pdf> <./cap3/figs/fi
+g_gamas_todo-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap3/figs/acople_bajo.eps>
 (epstopdf)                    date: 2021-11-02 15:23:01
 (epstopdf)                    size: 1544326 bytes
@@ -1504,15 +2005,16 @@ Package epstopdf Info: Source file: <cap3/figs/acople_bajo.eps>
 (epstopdf)                    size: 1751128 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/acople_bajo-eps-
 converted-to.pdf cap3/figs/acople_bajo.eps>
-(epstopdf)             \includegraphics on input line 263.
+(epstopdf)             \includegraphics on input line 249.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/acople_bajo-eps-converted-to.pdf, id=194, 1507.6325pt x 668.4975pt>
+<cap3/figs/acople_bajo-eps-converted-to.pdf, id=223, 1507.6325pt x 668.4975pt>
 File: cap3/figs/acople_bajo-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/acople_bajo-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/acople_bajo-eps-converted-to.pdf  used on in
-put line 263.
+put line 249.
 (pdftex.def)             Requested size: 256.66222pt x 113.81102pt.
 
+
 ! Package inputenc Error: Unicode character ́ (U+0301)
 (inputenc)                not set up for use with LaTeX.
 
@@ -1520,7 +2022,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.264 ...con acoplamientos bajo o $\gamma = 0.02$}
+l.250 ...con acoplamientos bajo o $\gamma = 0.02$}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1533,17 +2035,17 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.264 ...con acoplamientos bajo o $\gamma = 0.02$}
+l.250 ...con acoplamientos bajo o $\gamma = 0.02$}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \vbox (badness 6859) has occurred while \output is active []
+Underfull \vbox (badness 2894) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 270.
-LaTeX Info: Redefining \% on input line 270.
- [27 <./cap3/figs/fig_gamas_1-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 256.
+LaTeX Info: Redefining \% on input line 256.
+ [31 <./cap3/figs/fig_gamas_1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap3/figs/acople_alto.eps>
 (epstopdf)                    date: 2021-11-02 16:52:32
 (epstopdf)                    size: 2113707 bytes
@@ -1553,14 +2055,14 @@ Package epstopdf Info: Source file: <cap3/figs/acople_alto.eps>
 (epstopdf)                    size: 1996501 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/acople_alto-eps-
 converted-to.pdf cap3/figs/acople_alto.eps>
-(epstopdf)             \includegraphics on input line 274.
+(epstopdf)             \includegraphics on input line 260.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/acople_alto-eps-converted-to.pdf, id=203, 1542.76375pt x 668.4975pt>
+<cap3/figs/acople_alto-eps-converted-to.pdf, id=231, 1542.76375pt x 668.4975pt>
 
 File: cap3/figs/acople_alto-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/acople_alto-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/acople_alto-eps-converted-to.pdf  used on in
-put line 274.
+put line 260.
 (pdftex.def)             Requested size: 262.64302pt x 113.81102pt.
 
 
@@ -1571,7 +2073,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.275 ... con acoplamientos bajo o $\gamma = 0.1$}
+l.261 ... con acoplamientos bajo o $\gamma = 0.1$}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1584,13 +2086,10 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.275 ... con acoplamientos bajo o $\gamma = 0.1$}
+l.261 ... con acoplamientos bajo o $\gamma = 0.1$}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
-
-
-LaTeX Warning: Reference `' on page 28 undefined on input line 279.
 
 Package epstopdf Info: Source file: <cap3/figs/fig_gamas_h.eps>
 (epstopdf)                    date: 2021-11-02 17:42:13
@@ -1601,16 +2100,16 @@ Package epstopdf Info: Source file: <cap3/figs/fig_gamas_h.eps>
 (epstopdf)                    size: 2104825 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap3/figs/fig_gamas_h-eps-
 converted-to.pdf cap3/figs/fig_gamas_h.eps>
-(epstopdf)             \includegraphics on input line 284.
+(epstopdf)             \includegraphics on input line 270.
 Package epstopdf Info: Output file is already uptodate.
-<cap3/figs/fig_gamas_h-eps-converted-to.pdf, id=204, 2075.755pt x 599.23875pt>
+<cap3/figs/fig_gamas_h-eps-converted-to.pdf, id=232, 2075.755pt x 599.23875pt>
 File: cap3/figs/fig_gamas_h-eps-converted-to.pdf Graphic file (type pdf)
 <use cap3/figs/fig_gamas_h-eps-converted-to.pdf>
 Package pdftex.def Info: cap3/figs/fig_gamas_h-eps-converted-to.pdf  used on in
-put line 284.
+put line 270.
 (pdftex.def)             Requested size: 423.7905pt x 122.34692pt.
 
-Overfull \hbox (5.53682pt too wide) in paragraph at lines 284--285
+Overfull \hbox (5.53682pt too wide) in paragraph at lines 270--271
  [][] 
  []
 
@@ -1622,7 +2121,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.285 ...45$ y $\mu=-0.3$ como parámetros fijos.}
+l.271 ...45$ y $\mu=-0.3$ como parámetros fijos.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1635,56 +2134,24 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.285 ...45$ y $\mu=-0.3$ como parámetros fijos.}
+l.271 ...45$ y $\mu=-0.3$ como parámetros fijos.}
                                                   
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-LaTeX Info: Redefining \. on input line 289.
-LaTeX Info: Redefining \% on input line 289.
-[28 <./cap3/figs/acople_bajo-eps-converted-to.pdf> <./cap3/figs/acople_alto-eps
+LaTeX Info: Redefining \. on input line 275.
+LaTeX Info: Redefining \% on input line 275.
+[32 <./cap3/figs/acople_bajo-eps-converted-to.pdf> <./cap3/figs/acople_alto-eps
 -converted-to.pdf>]) (./cap4/cap4.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [29 <./cap3/figs/fig_gamas_h-eps-converted-to.pdf>]
+ [33 <./cap3/figs/fig_gamas_h-eps-converted-to.pdf>]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [30
+ [34
 
 ]
 Cap\'{\i }tulo 4.
-
-Package natbib Warning: Citation `ORegan1991' on page 31 undefined on input lin
-e 3.
-
-
-Package natbib Warning: Citation `Zheng2010' on page 31 undefined on input line
- 3.
-
-
-Package natbib Warning: Citation `Chen2007' on page 31 undefined on input line 
-3.
-
-
-Package natbib Warning: Citation `McGehee2011' on page 31 undefined on input li
-ne 5.
-
-
-Package natbib Warning: Citation `Prezhdo2009' on page 31 undefined on input li
-ne 5.
-
-
-Package natbib Warning: Citation `Odobel2010' on page 31 undefined on input lin
-e 7.
-
-
-Package natbib Warning: Citation `Odobel2012' on page 31 undefined on input lin
-e 7.
-
-
-Package natbib Warning: Citation `Buchalska2013' on page 31 undefined on input 
-line 7.
-
 Package epstopdf Info: Source file: <cap4/figs/fig_1_a_TUN_1.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
 (epstopdf)                    size: 82845 bytes
@@ -1696,7 +2163,7 @@ df>
 s-converted-to.pdf cap4/figs/fig_1_a_TUN_1.eps>
 (epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/fig_1_a_TUN_1-eps-converted-to.pdf, id=221, 390.45876pt x 426.59375p
+<cap4/figs/fig_1_a_TUN_1-eps-converted-to.pdf, id=249, 390.45876pt x 426.59375p
 t>
 File: cap4/figs/fig_1_a_TUN_1-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/fig_1_a_TUN_1-eps-converted-to.pdf>
@@ -1714,225 +2181,17 @@ df>
 s-converted-to.pdf cap4/figs/fig_1_b_TUN_1.eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/fig_1_b_TUN_1-eps-converted-to.pdf, id=222, 385.44pt x 426.59375pt>
+<cap4/figs/fig_1_b_TUN_1-eps-converted-to.pdf, id=250, 385.44pt x 426.59375pt>
 File: cap4/figs/fig_1_b_TUN_1-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/fig_1_b_TUN_1-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/fig_1_b_TUN_1-eps-converted-to.pdf  used on 
 input line 12.
 (pdftex.def)             Requested size: 179.95703pt x 199.16928pt.
-[31]
-
-Package natbib Warning: Citation `Hagfeldt2010' on page 32 undefined on input l
-ine 20.
-
-
-Package natbib Warning: Citation `Dini2016' on page 32 undefined on input line 
-20.
-
-
-Package natbib Warning: Citation `Hod2013' on page 32 undefined on input line 2
-0.
-
-
-Package natbib Warning: Citation `Odobel2010' on page 32 undefined on input lin
-e 20.
-
-
-Package natbib Warning: Citation `Xiong2015' on page 32 undefined on input line
- 20.
-
-
-Package natbib Warning: Citation `Langmar2015' on page 32 undefined on input li
-ne 20.
-
-
-Package natbib Warning: Citation `Jiang2016' on page 32 undefined on input line
- 20.
-
-
-Package natbib Warning: Citation `Iwamoto2014' on page 32 undefined on input li
-ne 20.
-
-
-Package natbib Warning: Citation `Chen2016' on page 32 undefined on input line 
-20.
-
-
-Package natbib Warning: Citation `Du2014' on page 32 undefined on input line 20
-.
-
-
-Package natbib Warning: Citation `Miclau2017' on page 32 undefined on input lin
-e 20.
-
-
-Package natbib Warning: Citation `Odobel2010' on page 32 undefined on input lin
-e 20.
-
-
-Package natbib Warning: Citation `Sarkar2012' on page 32 undefined on input lin
-e 22.
-
-
-Package natbib Warning: Citation `Fang2017' on page 32 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `Jia2012' on page 32 undefined on input line 2
-2.
-
-
-Package natbib Warning: Citation `Li2015' on page 32 undefined on input line 22
-.
-
-
-Package natbib Warning: Citation `Mahmood2014' on page 32 undefined on input li
-ne 22.
-
-
-Package natbib Warning: Citation `Zhang2015' on page 32 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `Wang2016' on page 32 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `Beni2015' on page 32 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `Jia2012' on page 32 undefined on input line 2
-2.
-
-
-Package natbib Warning: Citation `Godfroy2017' on page 32 undefined on input li
-ne 22.
-
-
-Package natbib Warning: Citation `Namuangruk2016' on page 32 undefined on input
- line 22.
-
-
-Package natbib Warning: Citation `Feng2017' on page 32 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `Han2017' on page 32 undefined on input line 2
-2.
-
-
-Package natbib Warning: Citation `Birel2017' on page 32 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `Mathew2014' on page 32 undefined on input lin
-e 22.
-
-
-Package natbib Warning: Citation `Yella2011' on page 32 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `Mao2016' on page 32 undefined on input line 2
-2.
-
-
-Package natbib Warning: Citation `Daniel2017' on page 32 undefined on input lin
-e 22.
-
-
-Package natbib Warning: Citation `Morandeira2008' on page 32 undefined on input
- line 22.
-
-
-Package natbib Warning: Citation `Mizoguchi2008' on page 32 undefined on input 
-line 22.
-
-
-Package natbib Warning: Citation `Morandeira2005' on page 32 undefined on input
- line 22.
-
-
-Package natbib Warning: Citation `Palomaki2013' on page 32 undefined on input l
-ine 22.
-
-
-Package natbib Warning: Citation `Borgstrom2005' on page 32 undefined on input 
-line 22.
-
-
-Package natbib Warning: Citation `Wild2016' on page 32 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `Feihl2012' on page 32 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `Chang2012' on page 32 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `Ameline2015' on page 32 undefined on input li
-ne 22.
-
-
-Package natbib Warning: Citation `Warnan2014' on page 32 undefined on input lin
-e 22.
-
-
-Package natbib Warning: Citation `Yen2011' on page 32 undefined on input line 2
-2.
-
-
-Package natbib Warning: Citation `Naik2017' on page 32 undefined on input line 
-22.
-
-
-Package natbib Warning: Citation `Park2014' on page 32 undefined on input line 
-22.
-
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
-[32 <./cap4/figs/fig_1_a_TUN_1-eps-converted-to.pdf> <./cap4/figs/fig_1_b_TUN_1
--eps-converted-to.pdf>]
-
-Package natbib Warning: Citation `Oviedo2012' on page 33 undefined on input lin
-e 25.
-
-
-Package natbib Warning: Citation `Negre2012' on page 33 undefined on input line
- 25.
-
-
-Package natbib Warning: Citation `Negre2014' on page 33 undefined on input line
- 25.
-
-
-Package natbib Warning: Citation `Oviedo2012' on page 33 undefined on input lin
-e 25.
-
-
-Package natbib Warning: Citation `Negre2012' on page 33 undefined on input line
- 25.
-
-
-Package natbib Warning: Citation `Fang2017' on page 33 undefined on input line 
-25.
-
-
-Package natbib Warning: Citation `Yao2015' on page 33 undefined on input line 2
-5.
-
-
-Package natbib Warning: Citation `Mathew2014' on page 33 undefined on input lin
-e 25.
-
-
-Package natbib Warning: Citation `Yella2011' on page 33 undefined on input line
- 25.
-
+[35]
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [36 <./cap4/figs/fig_1_a_TUN_1-eps-converted-to.pdf> <./cap4/figs/fig_1_b_TUN_
+1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap4/figs/tpa_coords.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
 (epstopdf)                    size: 162672 bytes
@@ -1942,18 +2201,20 @@ Package epstopdf Info: Source file: <cap4/figs/tpa_coords.eps>
 (epstopdf)                    size: 52934 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/tpa_coords-eps-c
 onverted-to.pdf cap4/figs/tpa_coords.eps>
-(epstopdf)             \includegraphics on input line 29.
+(epstopdf)             \includegraphics on input line 32.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/tpa_coords-eps-converted-to.pdf, id=234, 464.73625pt x 481.8pt>
+<cap4/figs/tpa_coords-eps-converted-to.pdf, id=262, 464.73625pt x 481.8pt>
 File: cap4/figs/tpa_coords-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/tpa_coords-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/tpa_coords-eps-converted-to.pdf  used on inp
-ut line 29.
+ut line 32.
 (pdftex.def)             Requested size: 209.12683pt x 216.80063pt.
-[33 <./cap4/figs/tpa_coords-eps-converted-to.pdf>]
+ [37 <./cap4/figs/tpa_coords-eps-converted-to.pdf>]
 
-Package natbib Warning: Citation `Negre2012' on page 34 undefined on input line
- 39.
+LaTeX Warning: Command \r invalid in math mode on input line 42.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 44.
 
 Package epstopdf Info: Source file: <cap4/figs/fig_3_a.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
@@ -1963,14 +2224,14 @@ Package epstopdf Info: Source file: <cap4/figs/fig_3_a.eps>
 (epstopdf)                    size: 6722 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/fig_3_a-eps-conv
 erted-to.pdf cap4/figs/fig_3_a.eps>
-(epstopdf)             \includegraphics on input line 46.
+(epstopdf)             \includegraphics on input line 56.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/fig_3_a-eps-converted-to.pdf, id=241, 557.08125pt x 386.44376pt>
+<cap4/figs/fig_3_a-eps-converted-to.pdf, id=268, 557.08125pt x 386.44376pt>
 File: cap4/figs/fig_3_a-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/fig_3_a-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/fig_3_a-eps-converted-to.pdf  used on input 
-line 46.
-(pdftex.def)             Requested size: 125.47737pt x 87.04044pt.
+line 56.
+(pdftex.def)             Requested size: 104.56342pt x 72.53468pt.
 Package epstopdf Info: Source file: <cap4/figs/fig_3_b.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
 (epstopdf)                    size: 39677 bytes
@@ -1979,14 +2240,14 @@ Package epstopdf Info: Source file: <cap4/figs/fig_3_b.eps>
 (epstopdf)                    size: 4759 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/fig_3_b-eps-conv
 erted-to.pdf cap4/figs/fig_3_b.eps>
-(epstopdf)             \includegraphics on input line 51.
+(epstopdf)             \includegraphics on input line 61.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/fig_3_b-eps-converted-to.pdf, id=242, 557.08125pt x 571.13374pt>
+<cap4/figs/fig_3_b-eps-converted-to.pdf, id=269, 557.08125pt x 571.13374pt>
 File: cap4/figs/fig_3_b-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/fig_3_b-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/fig_3_b-eps-converted-to.pdf  used on input 
-line 51.
-(pdftex.def)             Requested size: 62.73549pt x 64.31512pt.
+line 61.
+(pdftex.def)             Requested size: 50.18839pt x 51.4521pt.
 Package epstopdf Info: Source file: <cap4/figs/fig_3_c.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
 (epstopdf)                    size: 79809 bytes
@@ -1995,53 +2256,24 @@ Package epstopdf Info: Source file: <cap4/figs/fig_3_c.eps>
 (epstopdf)                    size: 15721 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/fig_3_c-eps-conv
 erted-to.pdf cap4/figs/fig_3_c.eps>
-(epstopdf)             \includegraphics on input line 56.
+(epstopdf)             \includegraphics on input line 66.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/fig_3_c-eps-converted-to.pdf, id=243, 557.08125pt x 294.09875pt>
+<cap4/figs/fig_3_c-eps-converted-to.pdf, id=270, 557.08125pt x 294.09875pt>
 File: cap4/figs/fig_3_c-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/fig_3_c-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/fig_3_c-eps-converted-to.pdf  used on input 
-line 56.
-(pdftex.def)             Requested size: 334.60422pt x 176.64908pt.
+line 66.
+(pdftex.def)             Requested size: 250.95476pt x 132.48232pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 65.
-LaTeX Info: Redefining \% on input line 65.
- [34 <./cap4/figs/fig_3_a-eps-converted-to.pdf> <./cap4/figs/fig_3_b-eps-conver
+LaTeX Info: Redefining \. on input line 96.
+LaTeX Info: Redefining \% on input line 96.
+[38]
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+ [39 <./cap4/figs/fig_3_a-eps-converted-to.pdf> <./cap4/figs/fig_3_b-eps-conver
 ted-to.pdf> <./cap4/figs/fig_3_c-eps-converted-to.pdf>]
-
-Package natbib Warning: Citation `Huber2000' on page 35 undefined on input line
- 83.
-
-
-Package natbib Warning: Citation `Huber2000' on page 35 undefined on input line
- 83.
-
-
-Package natbib Warning: Citation `Wang2003' on page 35 undefined on input line 
-83.
-
-
-Package natbib Warning: Citation `Wang2003' on page 35 undefined on input line 
-83.
-
-
-Package natbib Warning: Citation `Fang2017' on page 35 undefined on input line 
-83.
-
-
-Package natbib Warning: Citation `Fang2017' on page 35 undefined on input line 
-83.
-
-
-Package natbib Warning: Citation `Oviedo2012' on page 35 undefined on input lin
-e 92.
-
-
-Package natbib Warning: Citation `Negre2012' on page 35 undefined on input line
- 92.
-
 Package epstopdf Info: Source file: <cap4/figs/spec_alz.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
 (epstopdf)                    size: 235239 bytes
@@ -2050,13 +2282,13 @@ Package epstopdf Info: Source file: <cap4/figs/spec_alz.eps>
 (epstopdf)                    size: 51268 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/spec_alz-eps-con
 verted-to.pdf cap4/figs/spec_alz.eps>
-(epstopdf)             \includegraphics on input line 100.
+(epstopdf)             \includegraphics on input line 104.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/spec_alz-eps-converted-to.pdf, id=250, 546.04pt x 545.03625pt>
+<cap4/figs/spec_alz-eps-converted-to.pdf, id=281, 546.04pt x 545.03625pt>
 File: cap4/figs/spec_alz-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/spec_alz-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/spec_alz-eps-converted-to.pdf  used on input
- line 100.
+ line 104.
 (pdftex.def)             Requested size: 133.84424pt x 133.59743pt.
 Package epstopdf Info: Source file: <cap4/figs/spec_cat.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
@@ -2066,13 +2298,13 @@ Package epstopdf Info: Source file: <cap4/figs/spec_cat.eps>
 (epstopdf)                    size: 55740 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/spec_cat-eps-con
 verted-to.pdf cap4/figs/spec_cat.eps>
-(epstopdf)             \includegraphics on input line 104.
+(epstopdf)             \includegraphics on input line 108.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/spec_cat-eps-converted-to.pdf, id=251, 546.04pt x 545.03625pt>
+<cap4/figs/spec_cat-eps-converted-to.pdf, id=282, 546.04pt x 545.03625pt>
 File: cap4/figs/spec_cat-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/spec_cat-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/spec_cat-eps-converted-to.pdf  used on input
- line 104.
+ line 108.
 (pdftex.def)             Requested size: 133.84424pt x 133.59743pt.
 Package epstopdf Info: Source file: <cap4/figs/spec_fsd101.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
@@ -2083,20 +2315,14 @@ Package epstopdf Info: Source file: <cap4/figs/spec_fsd101.eps>
 (epstopdf)                    size: 63453 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/spec_fsd101-eps-
 converted-to.pdf cap4/figs/spec_fsd101.eps>
-(epstopdf)             \includegraphics on input line 108.
+(epstopdf)             \includegraphics on input line 112.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/spec_fsd101-eps-converted-to.pdf, id=252, 546.04pt x 545.03625pt>
+<cap4/figs/spec_fsd101-eps-converted-to.pdf, id=283, 546.04pt x 545.03625pt>
 File: cap4/figs/spec_fsd101-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/spec_fsd101-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/spec_fsd101-eps-converted-to.pdf  used on in
-put line 108.
+put line 112.
 (pdftex.def)             Requested size: 133.84424pt x 133.59743pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 117.
-LaTeX Info: Redefining \% on input line 117.
- [35]
 Package epstopdf Info: Source file: <cap4/figs/cargas_alz.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
 (epstopdf)                    size: 456531 bytes
@@ -2106,13 +2332,13 @@ Package epstopdf Info: Source file: <cap4/figs/cargas_alz.eps>
 (epstopdf)                    size: 91100 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/cargas_alz-eps-c
 onverted-to.pdf cap4/figs/cargas_alz.eps>
-(epstopdf)             \includegraphics on input line 128.
+(epstopdf)             \includegraphics on input line 130.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/cargas_alz-eps-converted-to.pdf, id=256, 592.2125pt x 559.08875pt>
+<cap4/figs/cargas_alz-eps-converted-to.pdf, id=284, 592.2125pt x 559.08875pt>
 File: cap4/figs/cargas_alz-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/cargas_alz-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/cargas_alz-eps-converted-to.pdf  used on inp
-ut line 128.
+ut line 130.
 (pdftex.def)             Requested size: 133.84424pt x 126.35258pt.
 Package epstopdf Info: Source file: <cap4/figs/cargas_cat.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
@@ -2123,13 +2349,13 @@ Package epstopdf Info: Source file: <cap4/figs/cargas_cat.eps>
 (epstopdf)                    size: 110658 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/cargas_cat-eps-c
 onverted-to.pdf cap4/figs/cargas_cat.eps>
-(epstopdf)             \includegraphics on input line 132.
+(epstopdf)             \includegraphics on input line 134.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/cargas_cat-eps-converted-to.pdf, id=257, 592.2125pt x 559.08875pt>
+<cap4/figs/cargas_cat-eps-converted-to.pdf, id=285, 592.2125pt x 559.08875pt>
 File: cap4/figs/cargas_cat-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/cargas_cat-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/cargas_cat-eps-converted-to.pdf  used on inp
-ut line 132.
+ut line 134.
 (pdftex.def)             Requested size: 133.84424pt x 126.35258pt.
 Package epstopdf Info: Source file: <cap4/figs/cargas_fsd101.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
@@ -2140,20 +2366,15 @@ df>
 (epstopdf)                    size: 101328 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap4/figs/cargas_fsd101-ep
 s-converted-to.pdf cap4/figs/cargas_fsd101.eps>
-(epstopdf)             \includegraphics on input line 136.
+(epstopdf)             \includegraphics on input line 138.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/cargas_fsd101-eps-converted-to.pdf, id=258, 592.2125pt x 559.08875pt
+<cap4/figs/cargas_fsd101-eps-converted-to.pdf, id=286, 592.2125pt x 559.08875pt
 >
 File: cap4/figs/cargas_fsd101-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/cargas_fsd101-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/cargas_fsd101-eps-converted-to.pdf  used on 
-input line 136.
+input line 138.
 (pdftex.def)             Requested size: 133.84424pt x 126.35258pt.
-LaTeX Info: Redefining \. on input line 142.
-LaTeX Info: Redefining \% on input line 142.
-
-[36 <./cap4/figs/spec_alz-eps-converted-to.pdf> <./cap4/figs/spec_cat-eps-conve
-rted-to.pdf> <./cap4/figs/spec_fsd101-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap4/figs/imagen1.eps>
 (epstopdf)                    date: 2021-08-18 15:45:12
 (epstopdf)                    size: 41249 bytes
@@ -2164,7 +2385,7 @@ Package epstopdf Info: Source file: <cap4/figs/imagen1.eps>
 erted-to.pdf cap4/figs/imagen1.eps>
 (epstopdf)             \includegraphics on input line 151.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/imagen1-eps-converted-to.pdf, id=268, 545.03625pt x 544.0325pt>
+<cap4/figs/imagen1-eps-converted-to.pdf, id=287, 545.03625pt x 544.0325pt>
 File: cap4/figs/imagen1-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/imagen1-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/imagen1-eps-converted-to.pdf  used on input 
@@ -2180,7 +2401,7 @@ Package epstopdf Info: Source file: <cap4/figs/imagen2.eps>
 erted-to.pdf cap4/figs/imagen2.eps>
 (epstopdf)             \includegraphics on input line 155.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/imagen2-eps-converted-to.pdf, id=269, 542.025pt x 548.0475pt>
+<cap4/figs/imagen2-eps-converted-to.pdf, id=288, 542.025pt x 548.0475pt>
 File: cap4/figs/imagen2-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/imagen2-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/imagen2-eps-converted-to.pdf  used on input 
@@ -2196,37 +2417,34 @@ Package epstopdf Info: Source file: <cap4/figs/imagen3.eps>
 erted-to.pdf cap4/figs/imagen3.eps>
 (epstopdf)             \includegraphics on input line 160.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/imagen3-eps-converted-to.pdf, id=270, 545.03625pt x 536.0025pt>
+<cap4/figs/imagen3-eps-converted-to.pdf, id=289, 545.03625pt x 536.0025pt>
 File: cap4/figs/imagen3-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/imagen3-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/imagen3-eps-converted-to.pdf  used on input 
 line 160.
 (pdftex.def)             Requested size: 188.21288pt x 185.0928pt.
 
+Underfull \vbox (badness 3547) has occurred while \output is active []
 
-Package natbib Warning: Citation `Negre2012' on page 37 undefined on input line
- 169.
-
+LaTeX Info: Redefining \. on input line 163.
+LaTeX Info: Redefining \% on input line 163.
+ [40 <./cap4/figs/spec_alz-eps-converted-to.pdf> <./cap4/figs/spec_cat-eps-conv
+erted-to.pdf> <./cap4/figs/spec_fsd101-eps-converted-to.pdf>]
 LaTeX Info: Redefining \. on input line 170.
 LaTeX Info: Redefining \% on input line 170.
-[37 <./cap4/figs/cargas_alz-eps-converted-to.pdf> <./cap4/figs/cargas_cat-eps-c
-onverted-to.pdf> <./cap4/figs/cargas_fsd101-eps-converted-to.pdf>]
+ [41 <./cap4/figs/cargas_alz-eps-converted-to.pdf> <./cap4/figs/cargas_cat-eps-
+converted-to.pdf> <./cap4/figs/cargas_fsd101-eps-converted-to.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 170.
 LaTeX Info: Redefining \% on input line 170.
- [38 <./cap4/figs/imagen1-eps-converted-to.pdf> <./cap4/figs/imagen2-eps-conver
+ [42 <./cap4/figs/imagen1-eps-converted-to.pdf> <./cap4/figs/imagen2-eps-conver
 ted-to.pdf> <./cap4/figs/imagen3-eps-converted-to.pdf>]
-
-Package natbib Warning: Citation `Oviedo2012' on page 39 undefined on input lin
-e 181.
-
-
 Underfull \vbox (badness 4303) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 182.
 LaTeX Info: Redefining \% on input line 182.
- [39]
+ [43]
 Package epstopdf Info: Source file: <cap4/figs/rta_lineal.eps>
 (epstopdf)                    date: 2021-08-17 18:57:14
 (epstopdf)                    size: 386490 bytes
@@ -2238,7 +2456,7 @@ Package epstopdf Info: Source file: <cap4/figs/rta_lineal.eps>
 onverted-to.pdf cap4/figs/rta_lineal.eps>
 (epstopdf)             \includegraphics on input line 192.
 Package epstopdf Info: Output file is already uptodate.
-<cap4/figs/rta_lineal-eps-converted-to.pdf, id=309, 576.1525pt x 534.99875pt>
+<cap4/figs/rta_lineal-eps-converted-to.pdf, id=336, 576.1525pt x 534.99875pt>
 File: cap4/figs/rta_lineal-eps-converted-to.pdf Graphic file (type pdf)
 <use cap4/figs/rta_lineal-eps-converted-to.pdf>
 Package pdftex.def Info: cap4/figs/rta_lineal-eps-converted-to.pdf  used on inp
@@ -2248,61 +2466,20 @@ ut line 192.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Package natbib Warning: Citation `Niehaus2001' on page 40 undefined on input li
-ne 199.
-
 LaTeX Info: Redefining \. on input line 200.
 LaTeX Info: Redefining \% on input line 200.
-[40]
+[44]
 LaTeX Info: Redefining \. on input line 211.
 LaTeX Info: Redefining \% on input line 211.
- [41 <./cap4/figs/rta_lineal-eps-converted-to.pdf>]) (./cap5/cap5.tex
+ [45 <./cap4/figs/rta_lineal-eps-converted-to.pdf>]) (./cap5/cap5.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
-[42]
+[46]
 Cap\'{\i }tulo 5.
+[47
 
-Package natbib Warning: Citation `Strehlow1973' on page 43 undefined on input l
-ine 4.
-
-
-Package natbib Warning: Citation `Djurisic2006' on page 43 undefined on input l
-ine 4.
-
-
-Package natbib Warning: Citation `Mishra2017' on page 43 undefined on input lin
-e 4.
-
-
-Package natbib Warning: Citation `Ozgur2005' on page 43 undefined on input line
- 4.
-
-
-Package natbib Warning: Citation `Janisch2005' on page 43 undefined on input li
-ne 4.
-
-
-Package natbib Warning: Citation `Ozgur2005' on page 43 undefined on input line
- 6.
-
-
-Package natbib Warning: Citation `Look1998' on page 43 undefined on input line 
-6.
-
-
-Package natbib Warning: Citation `Look1999' on page 43 undefined on input line 
-6.
-
-
-Package natbib Warning: Citation `Strzhemechny2004' on page 43 undefined on inp
-ut line 6.
-
-
-Package natbib Warning: Citation `VanDeWalle2000' on page 43 undefined on input
- line 6.
-
+]
 Package epstopdf Info: Source file: <cap5/fig/est_zno.eps>
 (epstopdf)                    date: 2021-09-27 15:39:33
 (epstopdf)                    size: 869537 bytes
@@ -2311,93 +2488,20 @@ Package epstopdf Info: Source file: <cap5/fig/est_zno.eps>
 (epstopdf)                    size: 113794 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/est_zno-eps-conve
 rted-to.pdf cap5/fig/est_zno.eps>
-(epstopdf)             \includegraphics on input line 13.
+(epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/est_zno-eps-converted-to.pdf, id=321, 855.195pt x 395.4775pt>
+<cap5/fig/est_zno-eps-converted-to.pdf, id=352, 855.195pt x 395.4775pt>
 File: cap5/fig/est_zno-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/est_zno-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/est_zno-eps-converted-to.pdf  used on input l
-ine 13.
+ine 11.
 (pdftex.def)             Requested size: 307.63509pt x 142.26378pt.
 
-Package natbib Warning: Citation `Mishra2017' on page 43 undefined on input lin
-e 18.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Package natbib Warning: Citation `Huang2001_a' on page 43 undefined on input li
-ne 18.
-
-
-Package natbib Warning: Citation `Huang2001_b' on page 43 undefined on input li
-ne 18.
-
-
-Package natbib Warning: Citation `Liu2003' on page 43 undefined on input line 1
-8.
-
-
-Package natbib Warning: Citation `Shabani2020' on page 43 undefined on input li
-ne 18.
-
-
-Package natbib Warning: Citation `Chauhan2018' on page 43 undefined on input li
-ne 18.
-
-
-Package natbib Warning: Citation `Yan2003' on page 43 undefined on input line 1
-8.
-
-
-Package natbib Warning: Citation `Singh2020' on page 43 undefined on input line
- 18.
-
-
-Package natbib Warning: Citation `Ozgur2005' on page 43 undefined on input line
- 18.
-
-
-Package natbib Warning: Citation `Huang2001_a' on page 43 undefined on input li
-ne 18.
-
-
-Package natbib Warning: Citation `Wang2004_a' on page 43 undefined on input lin
-e 18.
-
-
-Package natbib Warning: Citation `Wang2004_b' on page 43 undefined on input lin
-e 18.
-
-
-Package natbib Warning: Citation `Heo2004' on page 43 undefined on input line 1
-8.
-
-
-Package natbib Warning: Citation `Ghosh2020' on page 43 undefined on input line
- 18.
-
-
-Package natbib Warning: Citation `Nayeri2013' on page 43 undefined on input lin
-e 18.
-
-
-Package natbib Warning: Citation `Peng2011' on page 43 undefined on input line 
-18.
-
-
-Package natbib Warning: Citation `Baxter2005' on page 43 undefined on input lin
-e 18.
-
-
-Package natbib Warning: Citation `Tiwana2011' on page 43 undefined on input lin
-e 18.
-
-
-Package natbib Warning: Citation `Law2005' on page 43 undefined on input line 1
-8.
-
-[43
-
-]
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [48 <./cap5/fig/est_zno-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/nanoestructuras_zno.eps>
 (epstopdf)                    date: 2021-09-24 16:02:35
 (epstopdf)                    size: 1086138 bytes
@@ -2407,31 +2511,16 @@ Package epstopdf Info: Source file: <cap5/fig/nanoestructuras_zno.eps>
 (epstopdf)                    size: 119630 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/nanoestructuras_z
 no-eps-converted-to.pdf cap5/fig/nanoestructuras_zno.eps>
-(epstopdf)             \includegraphics on input line 22.
+(epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/nanoestructuras_zno-eps-converted-to.pdf, id=325, 599.23875pt x 656.4
+<cap5/fig/nanoestructuras_zno-eps-converted-to.pdf, id=358, 599.23875pt x 656.4
 525pt>
 File: cap5/fig/nanoestructuras_zno-eps-converted-to.pdf Graphic file (type pdf)
 
 <use cap5/fig/nanoestructuras_zno-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/nanoestructuras_zno-eps-converted-to.pdf  use
-d on input line 22.
+d on input line 20.
 (pdftex.def)             Requested size: 233.75703pt x 256.0748pt.
-
-
-Package natbib Warning: Citation `Djurisic2006' on page 44 undefined on input l
-ine 23.
-
-
-Package natbib Warning: Citation `Djurisic2006' on page 44 undefined on input l
-ine 23.
-
-
-Underfull \vbox (badness 1194) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
- [44 <./cap5/fig/est_zno-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/tipo1_tipo2.eps>
 (epstopdf)                    date: 2021-09-27 15:35:09
 (epstopdf)                    size: 950196 bytes
@@ -2441,72 +2530,21 @@ Package epstopdf Info: Source file: <cap5/fig/tipo1_tipo2.eps>
 (epstopdf)                    size: 237535 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/tipo1_tipo2-eps-c
 onverted-to.pdf cap5/fig/tipo1_tipo2.eps>
-(epstopdf)             \includegraphics on input line 31.
+(epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/tipo1_tipo2-eps-converted-to.pdf, id=331, 877.2775pt x 420.57124pt>
+<cap5/fig/tipo1_tipo2-eps-converted-to.pdf, id=359, 877.2775pt x 420.57124pt>
 File: cap5/fig/tipo1_tipo2-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/tipo1_tipo2-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/tipo1_tipo2-eps-converted-to.pdf  used on inp
-ut line 31.
+ut line 29.
 (pdftex.def)             Requested size: 415.45285pt x 199.16928pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `Tae2005' on page 45 undefined on input line 3
-6.
-
-
-Package natbib Warning: Citation `Sinopoli2017' on page 45 undefined on input l
-ine 36.
-
-
-Package natbib Warning: Citation `Persson2000' on page 45 undefined on input li
-ne 36.
-
-
-Package natbib Warning: Citation `Dimitrijevic2003' on page 45 undefined on inp
-ut line 36.
-
-
-Package natbib Warning: Citation `Frei1990' on page 45 undefined on input line 
-36.
-
-
-Package natbib Warning: Citation `Ramakrishna2001' on page 45 undefined on inpu
-t line 36.
-
-
-Package natbib Warning: Citation `Wang2003' on page 45 undefined on input line 
-36.
-
-
-Package natbib Warning: Citation `Huber2000' on page 45 undefined on input line
- 36.
-
-
-Package natbib Warning: Citation `Mulliken1952' on page 45 undefined on input l
-ine 36.
-
-
-Underfull \vbox (badness 6842) has occurred while \output is active []
-
- [45 <./cap5/fig/nanoestructuras_zno-eps-converted-to.pdf> <./cap5/fig/tipo1_ti
-po2-eps-converted-to.pdf>]
-
-Package natbib Warning: Citation `Ramakrishna2001' on page 46 undefined on inpu
-t line 38.
-
-
-Package natbib Warning: Citation `Wang2003' on page 46 undefined on input line 
-38.
-
-
-Package natbib Warning: Citation `Huber2000' on page 46 undefined on input line
- 38.
-
-
-Package natbib Warning: Citation `Dewar1958' on page 46 undefined on input line
- 40.
-
+ [49 <./cap5/fig/nanoestructuras_zno-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+ [50 <./cap5/fig/tipo1_tipo2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/specs_cat.eps>
 (epstopdf)                    date: 2021-10-04 15:10:31
 (epstopdf)                    size: 365470 bytes
@@ -2515,14 +2553,21 @@ Package epstopdf Info: Source file: <cap5/fig/specs_cat.eps>
 (epstopdf)                    size: 97544 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/specs_cat-eps-con
 verted-to.pdf cap5/fig/specs_cat.eps>
-(epstopdf)             \includegraphics on input line 46.
+(epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/specs_cat-eps-converted-to.pdf, id=340, 672.5125pt x 654.445pt>
+<cap5/fig/specs_cat-eps-converted-to.pdf, id=370, 672.5125pt x 654.445pt>
 File: cap5/fig/specs_cat-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/specs_cat-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/specs_cat-eps-converted-to.pdf  used on input
- line 46.
+ line 44.
 (pdftex.def)             Requested size: 263.1408pt x 256.0748pt.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 51.
+
+
+LaTeX Warning: Command \r invalid in math mode on input line 51.
+
 Package epstopdf Info: Source file: <cap5/fig/estructuras_flecha.eps>
 (epstopdf)                    date: 2021-09-27 15:14:16
 (epstopdf)                    size: 4743883 bytes
@@ -2532,32 +2577,30 @@ to.pdf>
 (epstopdf)                    size: 1200027 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/estructuras_flech
 a-eps-converted-to.pdf cap5/fig/estructuras_flecha.eps>
-(epstopdf)             \includegraphics on input line 59.
+(epstopdf)             \includegraphics on input line 60.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/estructuras_flecha-eps-converted-to.pdf, id=341, 957.5775pt x 298.113
+<cap5/fig/estructuras_flecha-eps-converted-to.pdf, id=371, 957.5775pt x 298.113
 75pt>
 File: cap5/fig/estructuras_flecha-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/estructuras_flecha-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/estructuras_flecha-eps-converted-to.pdf  used
- on input line 59.
+ on input line 60.
 (pdftex.def)             Requested size: 411.26813pt x 128.0374pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
- [46]
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+ [51 <./cap5/fig/specs_cat-eps-converted-to.pdf>]
 
-Package natbib Warning: Citation `Negre2012' on page 47 undefined on input line
- 65.
+LaTeX Warning: Command \r invalid in math mode on input line 66.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 65.
+Underfull \vbox (badness 2293) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 66.
-LaTeX Info: Redefining \% on input line 66.
-[47 <./cap5/fig/specs_cat-eps-converted-to.pdf> <./cap5/fig/estructuras_flecha-
-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+ [52 <./cap5/fig/estructuras_flecha-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/e_ad_F.eps>
 (epstopdf)                    date: 2021-09-27 23:30:24
 (epstopdf)                    size: 3454966 bytes
@@ -2566,22 +2609,20 @@ Package epstopdf Info: Source file: <cap5/fig/e_ad_F.eps>
 (epstopdf)                    size: 861469 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/e_ad_F-eps-conver
 ted-to.pdf cap5/fig/e_ad_F.eps>
-(epstopdf)             \includegraphics on input line 71.
+(epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/e_ad_F-eps-converted-to.pdf, id=352, 855.195pt x 805.0075pt>
+<cap5/fig/e_ad_F-eps-converted-to.pdf, id=383, 855.195pt x 805.0075pt>
 File: cap5/fig/e_ad_F-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/e_ad_F-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/e_ad_F-eps-converted-to.pdf  used on input li
-ne 71.
+ne 72.
 (pdftex.def)             Requested size: 332.49382pt x 312.9803pt.
-LaTeX Info: Redefining \. on input line 87.
-LaTeX Info: Redefining \% on input line 87.
- [48]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 101.
-LaTeX Info: Redefining \% on input line 101.
- [49 <./cap5/fig/e_ad_F-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+ [53 <./cap5/fig/e_ad_F-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
+ [54]
 Package epstopdf Info: Source file: <cap5/fig/gauss_final.eps>
 (epstopdf)                    date: 2021-09-28 15:47:42
 (epstopdf)                    size: 612458 bytes
@@ -2591,23 +2632,24 @@ Package epstopdf Info: Source file: <cap5/fig/gauss_final.eps>
 (epstopdf)                    size: 190263 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/gauss_final-eps-c
 onverted-to.pdf cap5/fig/gauss_final.eps>
-(epstopdf)             \includegraphics on input line 138.
+(epstopdf)             \includegraphics on input line 140.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/gauss_final-eps-converted-to.pdf, id=361, 824.07875pt x 337.26pt>
+<cap5/fig/gauss_final-eps-converted-to.pdf, id=392, 824.07875pt x 337.26pt>
 File: cap5/fig/gauss_final-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/gauss_final-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/gauss_final-eps-converted-to.pdf  used on inp
-ut line 138.
+ut line 140.
 (pdftex.def)             Requested size: 417.14357pt x 170.71652pt.
-LaTeX Info: Redefining \. on input line 144.
-LaTeX Info: Redefining \% on input line 144.
- [50]
-LaTeX Info: Redefining \. on input line 165.
-LaTeX Info: Redefining \% on input line 165.
- [51 <./cap5/fig/gauss_final-eps-converted-to.pdf>]
-LaTeX Info: Redefining \. on input line 189.
-LaTeX Info: Redefining \% on input line 189.
- [52]
+LaTeX Info: Redefining \. on input line 146.
+LaTeX Info: Redefining \% on input line 146.
+ [55 <./cap5/fig/gauss_final-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
+ [56]
+LaTeX Info: Redefining \. on input line 204.
+LaTeX Info: Redefining \% on input line 204.
+
+[57]
 Package epstopdf Info: Source file: <cap5/fig/formacion_bandas.eps>
 (epstopdf)                    date: 2021-09-28 16:17:55
 (epstopdf)                    size: 97769 bytes
@@ -2617,27 +2659,15 @@ Package epstopdf Info: Source file: <cap5/fig/formacion_bandas.eps>
 (epstopdf)                    size: 37949 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/formacion_bandas-
 eps-converted-to.pdf cap5/fig/formacion_bandas.eps>
-(epstopdf)             \includegraphics on input line 206.
+(epstopdf)             \includegraphics on input line 207.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/formacion_bandas-eps-converted-to.pdf, id=374, 785.93625pt x 521.95pt
+<cap5/fig/formacion_bandas-eps-converted-to.pdf, id=405, 785.93625pt x 521.95pt
 >
 File: cap5/fig/formacion_bandas-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/formacion_bandas-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/formacion_bandas-eps-converted-to.pdf  used o
-n input line 206.
+n input line 207.
 (pdftex.def)             Requested size: 257.05722pt x 170.71652pt.
-
-
-Package natbib Warning: Citation `Dresselhaus2018' on page 53 undefined on inpu
-t line 207.
-
-
-Package natbib Warning: Citation `Dresselhaus2018' on page 53 undefined on inpu
-t line 207.
-
-LaTeX Info: Redefining \. on input line 215.
-LaTeX Info: Redefining \% on input line 215.
-[53]
 Package epstopdf Info: Source file: <cap5/fig/bandas_nw_F.eps>
 (epstopdf)                    date: 2021-09-29 17:27:02
 (epstopdf)                    size: 2471635 bytes
@@ -2647,22 +2677,17 @@ Package epstopdf Info: Source file: <cap5/fig/bandas_nw_F.eps>
 (epstopdf)                    size: 1274622 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/bandas_nw_F-eps-c
 onverted-to.pdf cap5/fig/bandas_nw_F.eps>
-(epstopdf)             \includegraphics on input line 218.
+(epstopdf)             \includegraphics on input line 219.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/bandas_nw_F-eps-converted-to.pdf, id=378, 991.705pt x 488.82625pt>
+<cap5/fig/bandas_nw_F-eps-converted-to.pdf, id=406, 991.705pt x 488.82625pt>
 File: cap5/fig/bandas_nw_F-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/bandas_nw_F-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/bandas_nw_F-eps-converted-to.pdf  used on inp
-ut line 218.
+ut line 219.
 (pdftex.def)             Requested size: 404.05948pt x 199.16928pt.
-LaTeX Info: Redefining \. on input line 225.
-LaTeX Info: Redefining \% on input line 225.
- [54 <./cap5/fig/formacion_bandas-eps-converted-to.pdf> <./cap5/fig/bandas_nw_F
--eps-converted-to.pdf>]
-
-Package natbib Warning: Citation `Yang2018' on page 55 undefined on input line 
-226.
-
+LaTeX Info: Redefining \. on input line 226.
+LaTeX Info: Redefining \% on input line 226.
+ [58 <./cap5/fig/formacion_bandas-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/plegado.eps>
 (epstopdf)                    date: 2021-09-28 22:44:41
 (epstopdf)                    size: 380441 bytes
@@ -2671,28 +2696,17 @@ Package epstopdf Info: Source file: <cap5/fig/plegado.eps>
 (epstopdf)                    size: 93541 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/plegado-eps-conve
 rted-to.pdf cap5/fig/plegado.eps>
-(epstopdf)             \includegraphics on input line 230.
+(epstopdf)             \includegraphics on input line 231.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/plegado-eps-converted-to.pdf, id=386, 1005.7575pt x 622.325pt>
+<cap5/fig/plegado-eps-converted-to.pdf, id=412, 1005.7575pt x 622.325pt>
 File: cap5/fig/plegado-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/plegado-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/plegado-eps-converted-to.pdf  used on input l
-ine 230.
+ine 231.
 (pdftex.def)             Requested size: 321.87967pt x 199.16928pt.
-
-Package natbib Warning: Citation `Yang2018' on page 55 undefined on input line 
-231.
-
-
-Package natbib Warning: Citation `Yang2018' on page 55 undefined on input line 
-231.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 LaTeX Info: Redefining \. on input line 238.
 LaTeX Info: Redefining \% on input line 238.
- [55 <./cap5/fig/plegado-eps-converted-to.pdf>]
+ [59 <./cap5/fig/bandas_nw_F-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/bandas_C_F.eps>
 (epstopdf)                    date: 2021-09-29 17:29:37
 (epstopdf)                    size: 1997745 bytes
@@ -2703,7 +2717,7 @@ Package epstopdf Info: Source file: <cap5/fig/bandas_C_F.eps>
 nverted-to.pdf cap5/fig/bandas_C_F.eps>
 (epstopdf)             \includegraphics on input line 242.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/bandas_C_F-eps-converted-to.pdf, id=392, 991.705pt x 493.845pt>
+<cap5/fig/bandas_C_F-eps-converted-to.pdf, id=418, 991.705pt x 493.845pt>
 File: cap5/fig/bandas_C_F-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/bandas_C_F-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/bandas_C_F-eps-converted-to.pdf  used on inpu
@@ -2718,17 +2732,21 @@ Package epstopdf Info: Source file: <cap5/fig/comp_bandas.eps>
 (epstopdf)                    size: 318813 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/comp_bandas-eps-c
 onverted-to.pdf cap5/fig/comp_bandas.eps>
-(epstopdf)             \includegraphics on input line 253.
+(epstopdf)             \includegraphics on input line 252.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/comp_bandas-eps-converted-to.pdf, id=393, 991.705pt x 606.265pt>
+<cap5/fig/comp_bandas-eps-converted-to.pdf, id=419, 991.705pt x 606.265pt>
 File: cap5/fig/comp_bandas-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/comp_bandas-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/comp_bandas-eps-converted-to.pdf  used on inp
-ut line 253.
+ut line 252.
 (pdftex.def)             Requested size: 325.79584pt x 199.16928pt.
-LaTeX Info: Redefining \. on input line 258.
-LaTeX Info: Redefining \% on input line 258.
- [56 <./cap5/fig/bandas_C_F-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 257.
+LaTeX Info: Redefining \% on input line 257.
+ [60 <./cap5/fig/plegado-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 260.
+LaTeX Info: Redefining \% on input line 260.
+[61 <./cap5/fig/bandas_C_F-eps-converted-to.pdf> <./cap5/fig/comp_bandas-eps-co
+nverted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/om.eps>
 (epstopdf)                    date: 2021-09-29 15:46:48
 (epstopdf)                    size: 7041311 bytes
@@ -2737,25 +2755,20 @@ Package epstopdf Info: Source file: <cap5/fig/om.eps>
 (epstopdf)                    size: 1891975 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/om-eps-converted-
 to.pdf cap5/fig/om.eps>
-(epstopdf)             \includegraphics on input line 264.
+(epstopdf)             \includegraphics on input line 263.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/om-eps-converted-to.pdf, id=399, 750.805pt x 699.61375pt>
+<cap5/fig/om-eps-converted-to.pdf, id=433, 750.805pt x 699.61375pt>
 File: cap5/fig/om-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/om-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/om-eps-converted-to.pdf  used on input line 2
-64.
+63.
 (pdftex.def)             Requested size: 412.22227pt x 384.1122pt.
 
-Underfull \vbox (badness 1303) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 272.
-LaTeX Info: Redefining \% on input line 272.
- [57 <./cap5/fig/comp_bandas-eps-converted-to.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 280.
-LaTeX Info: Redefining \% on input line 280.
- [58 <./cap5/fig/om-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 270.
+LaTeX Info: Redefining \% on input line 270.
+ [62 <./cap5/fig/om-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/specs.eps>
 (epstopdf)                    date: 2021-09-29 16:32:23
 (epstopdf)                    size: 3684418 bytes
@@ -2764,20 +2777,17 @@ Package epstopdf Info: Source file: <cap5/fig/specs.eps>
 (epstopdf)                    size: 1099955 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/specs-eps-convert
 ed-to.pdf cap5/fig/specs.eps>
-(epstopdf)             \includegraphics on input line 286.
+(epstopdf)             \includegraphics on input line 284.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/specs-eps-converted-to.pdf, id=411, 1688.3075pt x 776.9025pt>
+<cap5/fig/specs-eps-converted-to.pdf, id=439, 1688.3075pt x 776.9025pt>
 File: cap5/fig/specs-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/specs-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/specs-eps-converted-to.pdf  used on input lin
-e 286.
+e 284.
 (pdftex.def)             Requested size: 401.90462pt x 184.9429pt.
-
-Underfull \vbox (badness 1552) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 293.
-LaTeX Info: Redefining \% on input line 293.
- [59 <./cap5/fig/specs-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 287.
+LaTeX Info: Redefining \% on input line 287.
+ [63]
 Package epstopdf Info: Source file: <cap5/fig/dos_bandas_spec.eps>
 (epstopdf)                    date: 2021-09-29 17:04:55
 (epstopdf)                    size: 4329251 bytes
@@ -2787,18 +2797,24 @@ pdf>
 (epstopdf)                    size: 963774 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/dos_bandas_spec-e
 ps-converted-to.pdf cap5/fig/dos_bandas_spec.eps>
-(epstopdf)             \includegraphics on input line 297.
+(epstopdf)             \includegraphics on input line 295.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/dos_bandas_spec-eps-converted-to.pdf, id=417, 2172.115pt x 855.195pt>
+<cap5/fig/dos_bandas_spec-eps-converted-to.pdf, id=444, 2172.115pt x 855.195pt>
 
 File: cap5/fig/dos_bandas_spec-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/dos_bandas_spec-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/dos_bandas_spec-eps-converted-to.pdf  used on
- input line 297.
+ input line 295.
 (pdftex.def)             Requested size: 411.91069pt x 162.18062pt.
+
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 307.
+LaTeX Info: Redefining \% on input line 307.
+ [64 <./cap5/fig/specs-eps-converted-to.pdf>]
 LaTeX Info: Redefining \. on input line 322.
 LaTeX Info: Redefining \% on input line 322.
- [60 <./cap5/fig/dos_bandas_spec-eps-converted-to.pdf>]
+ [65 <./cap5/fig/dos_bandas_spec-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/cargas_3.08.eps>
 (epstopdf)                    date: 2021-09-30 18:43:38
 (epstopdf)                    size: 6230065 bytes
@@ -2808,13 +2824,13 @@ Package epstopdf Info: Source file: <cap5/fig/cargas_3.08.eps>
 (epstopdf)                    size: 2185492 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/cargas_3.08-eps-c
 onverted-to.pdf cap5/fig/cargas_3.08.eps>
-(epstopdf)             \includegraphics on input line 333.
+(epstopdf)             \includegraphics on input line 328.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/cargas_3.08-eps-converted-to.pdf, id=423, 1128.215pt x 559.08875pt>
+<cap5/fig/cargas_3.08-eps-converted-to.pdf, id=455, 1128.215pt x 559.08875pt>
 File: cap5/fig/cargas_3.08-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/cargas_3.08-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/cargas_3.08-eps-converted-to.pdf  used on inp
-ut line 333.
+ut line 328.
 (pdftex.def)             Requested size: 413.38745pt x 204.85974pt.
 Package epstopdf Info: Source file: <cap5/fig/dynpop_3.08_cut.eps>
 (epstopdf)                    date: 2021-09-30 23:00:48
@@ -2825,35 +2841,37 @@ pdf>
 (epstopdf)                    size: 342904 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/dynpop_3.08_cut-e
 ps-converted-to.pdf cap5/fig/dynpop_3.08_cut.eps>
-(epstopdf)             \includegraphics on input line 337.
+(epstopdf)             \includegraphics on input line 332.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/dynpop_3.08_cut-eps-converted-to.pdf, id=424, 1345.025pt x 543.02875p
+<cap5/fig/dynpop_3.08_cut-eps-converted-to.pdf, id=456, 1345.025pt x 543.02875p
 t>
 File: cap5/fig/dynpop_3.08_cut-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/dynpop_3.08_cut-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/dynpop_3.08_cut-eps-converted-to.pdf  used on
- input line 337.
+ input line 332.
 (pdftex.def)             Requested size: 422.84366pt x 170.71652pt.
 
-Overfull \hbox (4.58998pt too wide) in paragraph at lines 337--338
+Overfull \hbox (4.58998pt too wide) in paragraph at lines 332--333
  [][] 
  []
 
-LaTeX Info: Redefining \. on input line 346.
-LaTeX Info: Redefining \% on input line 346.
-[61]
-Underfull \vbox (badness 5316) has occurred while \output is active []
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 346.
 LaTeX Info: Redefining \% on input line 346.
- [62 <./cap5/fig/cargas_3.08-eps-converted-to.pdf> <./cap5/fig/dynpop_3.08_cut-
-eps-converted-to.pdf>]
-LaTeX Info: Redefining \. on input line 365.
-LaTeX Info: Redefining \% on input line 365.
- [63]
-LaTeX Info: Redefining \. on input line 420.
-LaTeX Info: Redefining \% on input line 420.
- [64]
+ [66]
+LaTeX Info: Redefining \. on input line 350.
+LaTeX Info: Redefining \% on input line 350.
+
+[67 <./cap5/fig/cargas_3.08-eps-converted-to.pdf> <./cap5/fig/dynpop_3.08_cut-e
+ps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 373.
+LaTeX Info: Redefining \% on input line 373.
+ [68]
+LaTeX Info: Redefining \. on input line 435.
+LaTeX Info: Redefining \% on input line 435.
+ [69]
 Package epstopdf Info: Source file: <cap5/fig/fig_nodos_cut.eps>
 (epstopdf)                    date: 2021-10-01 12:03:51
 (epstopdf)                    size: 186661 bytes
@@ -2863,18 +2881,15 @@ f>
 (epstopdf)                    size: 180829 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/fig_nodos_cut-eps
 -converted-to.pdf cap5/fig/fig_nodos_cut.eps>
-(epstopdf)             \includegraphics on input line 481.
+(epstopdf)             \includegraphics on input line 469.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/fig_nodos_cut-eps-converted-to.pdf, id=444, 595.22375pt x 478.78876pt
+<cap5/fig/fig_nodos_cut-eps-converted-to.pdf, id=475, 595.22375pt x 478.78876pt
 >
 File: cap5/fig/fig_nodos_cut-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/fig_nodos_cut-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/fig_nodos_cut-eps-converted-to.pdf  used on i
-nput line 481.
+nput line 469.
 (pdftex.def)             Requested size: 275.90428pt x 221.93158pt.
-LaTeX Info: Redefining \. on input line 488.
-LaTeX Info: Redefining \% on input line 488.
- [65]
 Package epstopdf Info: Source file: <cap5/fig/fig_time1.eps>
 (epstopdf)                    date: 2021-10-01 14:49:22
 (epstopdf)                    size: 91545 bytes
@@ -2883,13 +2898,13 @@ Package epstopdf Info: Source file: <cap5/fig/fig_time1.eps>
 (epstopdf)                    size: 87359 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/fig_time1-eps-con
 verted-to.pdf cap5/fig/fig_time1.eps>
-(epstopdf)             \includegraphics on input line 495.
+(epstopdf)             \includegraphics on input line 483.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/fig_time1-eps-converted-to.pdf, id=448, 629.35126pt x 507.8975pt>
+<cap5/fig/fig_time1-eps-converted-to.pdf, id=476, 629.35126pt x 507.8975pt>
 File: cap5/fig/fig_time1-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/fig_time1-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/fig_time1-eps-converted-to.pdf  used on input
- line 495.
+ line 483.
 (pdftex.def)             Requested size: 211.5374pt x 170.71652pt.
 Package epstopdf Info: Source file: <cap5/fig/fig_time2.eps>
 (epstopdf)                    date: 2021-10-01 14:49:22
@@ -2899,16 +2914,16 @@ Package epstopdf Info: Source file: <cap5/fig/fig_time2.eps>
 (epstopdf)                    size: 85310 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/fig_time2-eps-con
 verted-to.pdf cap5/fig/fig_time2.eps>
-(epstopdf)             \includegraphics on input line 496.
+(epstopdf)             \includegraphics on input line 484.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/fig_time2-eps-converted-to.pdf, id=449, 629.35126pt x 507.8975pt>
+<cap5/fig/fig_time2-eps-converted-to.pdf, id=477, 629.35126pt x 507.8975pt>
 File: cap5/fig/fig_time2-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/fig_time2-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/fig_time2-eps-converted-to.pdf  used on input
- line 496.
+ line 484.
 (pdftex.def)             Requested size: 211.5374pt x 170.71652pt.
 
-Overfull \hbox (4.82112pt too wide) in paragraph at lines 495--497
+Overfull \hbox (4.82112pt too wide) in paragraph at lines 483--485
  [][][] 
  []
 
@@ -2920,13 +2935,13 @@ Package epstopdf Info: Source file: <cap5/fig/fig_time3.eps>
 (epstopdf)                    size: 84579 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/fig_time3-eps-con
 verted-to.pdf cap5/fig/fig_time3.eps>
-(epstopdf)             \includegraphics on input line 499.
+(epstopdf)             \includegraphics on input line 487.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/fig_time3-eps-converted-to.pdf, id=450, 629.35126pt x 507.8975pt>
+<cap5/fig/fig_time3-eps-converted-to.pdf, id=478, 629.35126pt x 507.8975pt>
 File: cap5/fig/fig_time3-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/fig_time3-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/fig_time3-eps-converted-to.pdf  used on input
- line 499.
+ line 487.
 (pdftex.def)             Requested size: 211.5374pt x 170.71652pt.
 Package epstopdf Info: Source file: <cap5/fig/fig_time4.eps>
 (epstopdf)                    date: 2021-10-01 14:49:22
@@ -2936,19 +2951,22 @@ Package epstopdf Info: Source file: <cap5/fig/fig_time4.eps>
 (epstopdf)                    size: 85255 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/fig_time4-eps-con
 verted-to.pdf cap5/fig/fig_time4.eps>
-(epstopdf)             \includegraphics on input line 500.
+(epstopdf)             \includegraphics on input line 488.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/fig_time4-eps-converted-to.pdf, id=451, 629.35126pt x 507.8975pt>
+<cap5/fig/fig_time4-eps-converted-to.pdf, id=479, 629.35126pt x 507.8975pt>
 File: cap5/fig/fig_time4-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/fig_time4-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/fig_time4-eps-converted-to.pdf  used on input
- line 500.
+ line 488.
 (pdftex.def)             Requested size: 211.5374pt x 170.71652pt.
 
-Overfull \hbox (4.82112pt too wide) in paragraph at lines 499--501
+Overfull \hbox (4.82112pt too wide) in paragraph at lines 487--489
  [][][] 
  []
 
+LaTeX Info: Redefining \. on input line 494.
+LaTeX Info: Redefining \% on input line 494.
+[70]
 Package epstopdf Info: Source file: <cap5/fig/cargas_3.38.eps>
 (epstopdf)                    date: 2021-09-30 19:16:47
 (epstopdf)                    size: 6871593 bytes
@@ -2958,13 +2976,13 @@ Package epstopdf Info: Source file: <cap5/fig/cargas_3.38.eps>
 (epstopdf)                    size: 2166709 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/cargas_3.38-eps-c
 onverted-to.pdf cap5/fig/cargas_3.38.eps>
-(epstopdf)             \includegraphics on input line 511.
+(epstopdf)             \includegraphics on input line 498.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/cargas_3.38-eps-converted-to.pdf, id=452, 1128.215pt x 559.08875pt>
+<cap5/fig/cargas_3.38-eps-converted-to.pdf, id=483, 1128.215pt x 559.08875pt>
 File: cap5/fig/cargas_3.38-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/cargas_3.38-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/cargas_3.38-eps-converted-to.pdf  used on inp
-ut line 511.
+ut line 498.
 (pdftex.def)             Requested size: 413.38745pt x 204.85974pt.
 Package epstopdf Info: Source file: <cap5/fig/dynpop_3.38_cut.eps>
 (epstopdf)                    date: 2021-09-30 23:02:37
@@ -2975,31 +2993,26 @@ pdf>
 (epstopdf)                    size: 371960 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/dynpop_3.38_cut-e
 ps-converted-to.pdf cap5/fig/dynpop_3.38_cut.eps>
-(epstopdf)             \includegraphics on input line 515.
+(epstopdf)             \includegraphics on input line 502.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/dynpop_3.38_cut-eps-converted-to.pdf, id=453, 1345.025pt x 545.03625p
+<cap5/fig/dynpop_3.38_cut-eps-converted-to.pdf, id=484, 1345.025pt x 545.03625p
 t>
 File: cap5/fig/dynpop_3.38_cut-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/dynpop_3.38_cut-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/dynpop_3.38_cut-eps-converted-to.pdf  used on
- input line 515.
+ input line 502.
 (pdftex.def)             Requested size: 421.28387pt x 170.71652pt.
 
-Overfull \hbox (3.0302pt too wide) in paragraph at lines 515--516
+Overfull \hbox (3.0302pt too wide) in paragraph at lines 502--503
  [][] 
  []
 
 
-Underfull \vbox (badness 1389) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 522.
-LaTeX Info: Redefining \% on input line 522.
- [66 <./cap5/fig/fig_nodos_cut-eps-converted-to.pdf>]
-LaTeX Info: Redefining \. on input line 522.
-LaTeX Info: Redefining \% on input line 522.
- [67 <./cap5/fig/fig_time1-eps-converted-to.pdf> <./cap5/fig/fig_time2-eps-conv
-erted-to.pdf> <./cap5/fig/fig_time3-eps-converted-to.pdf> <./cap5/fig/fig_time4
--eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 509.
+LaTeX Info: Redefining \% on input line 509.
+ [71 <./cap5/fig/fig_nodos_cut-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap5/fig/ultimas_dynpop.eps>
 (epstopdf)                    date: 2021-10-02 18:43:04
 (epstopdf)                    size: 7788548 bytes
@@ -3009,56 +3022,43 @@ df>
 (epstopdf)                    size: 1350493 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap5/fig/ultimas_dynpop-ep
 s-converted-to.pdf cap5/fig/ultimas_dynpop.eps>
-(epstopdf)             \includegraphics on input line 534.
+(epstopdf)             \includegraphics on input line 521.
 Package epstopdf Info: Output file is already uptodate.
-<cap5/fig/ultimas_dynpop-eps-converted-to.pdf, id=475, 463.7325pt x 559.08875pt
+<cap5/fig/ultimas_dynpop-eps-converted-to.pdf, id=495, 463.7325pt x 559.08875pt
 >
 File: cap5/fig/ultimas_dynpop-eps-converted-to.pdf Graphic file (type pdf)
 <use cap5/fig/ultimas_dynpop-eps-converted-to.pdf>
 Package pdftex.def Info: cap5/fig/ultimas_dynpop-eps-converted-to.pdf  used on 
-input line 534.
+input line 521.
 (pdftex.def)             Requested size: 401.21507pt x 483.69684pt.
+LaTeX Info: Redefining \. on input line 528.
+LaTeX Info: Redefining \% on input line 528.
+ [72 <./cap5/fig/fig_time1-eps-converted-to.pdf> <./cap5/fig/fig_time2-eps-conv
+erted-to.pdf> <./cap5/fig/fig_time3-eps-converted-to.pdf> <./cap5/fig/fig_time4
+-eps-converted-to.pdf>]
+Underfull \vbox (badness 5316) has occurred while \output is active []
 
-Underfull \vbox (badness 1577) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 541.
-LaTeX Info: Redefining \% on input line 541.
- [68 <./cap5/fig/cargas_3.38-eps-converted-to.pdf> <./cap5/fig/dynpop_3.38_cut-
+LaTeX Info: Redefining \. on input line 528.
+LaTeX Info: Redefining \% on input line 528.
+ [73 <./cap5/fig/cargas_3.38-eps-converted-to.pdf> <./cap5/fig/dynpop_3.38_cut-
 eps-converted-to.pdf>]
 
-LaTeX Warning: Text page 69 contains only floats.
+LaTeX Warning: Text page 74 contains only floats.
 
-LaTeX Info: Redefining \. on input line 541.
-LaTeX Info: Redefining \% on input line 541.
-[69 <./cap5/fig/ultimas_dynpop-eps-converted-to.pdf>]) (./cap6/cap6.tex
+LaTeX Info: Redefining \. on input line 528.
+LaTeX Info: Redefining \% on input line 528.
+[74 <./cap5/fig/ultimas_dynpop-eps-converted-to.pdf>]) (./cap6/cap6.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
-[70]
-Cap\'{\i }tulo 6.
-
-Package natbib Warning: Citation `Li2014' on page 71 undefined on input line 3.
-
-
-
-Package natbib Warning: Citation `Pringle2013' on page 71 undefined on input li
-ne 3.
-
-
-Package natbib Warning: Citation `Husmann2018' on page 71 undefined on input li
-ne 3.
-
-
-Package natbib Warning: Citation `Cassone2018' on page 71 undefined on input li
-ne 3.
-
-
-Package natbib Warning: Citation `Angelis2011' on page 71 undefined on input li
-ne 3.
-
-[71
+[75]
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [76
 
 ]
+Cap\'{\i }tulo 6.
+[77]
 Package epstopdf Info: Source file: <cap6/figs/dssc_acuosa.eps>
 (epstopdf)                    date: 2021-10-04 16:06:02
 (epstopdf)                    size: 170258 bytes
@@ -3070,7 +3070,7 @@ Package epstopdf Info: Source file: <cap6/figs/dssc_acuosa.eps>
 converted-to.pdf cap6/figs/dssc_acuosa.eps>
 (epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/dssc_acuosa-eps-converted-to.pdf, id=501, 352.31625pt x 336.25626pt>
+<cap6/figs/dssc_acuosa-eps-converted-to.pdf, id=535, 352.31625pt x 336.25626pt>
 
 File: cap6/figs/dssc_acuosa-eps-converted-to.pdf Graphic file (type pdf)
 <use cap6/figs/dssc_acuosa-eps-converted-to.pdf>
@@ -3078,24 +3078,14 @@ Package pdftex.def Info: cap6/figs/dssc_acuosa-eps-converted-to.pdf  used on in
 put line 9.
 (pdftex.def)             Requested size: 178.87251pt x 170.71652pt.
 
-
-Package natbib Warning: Citation `Angelis2011' on page 72 undefined on input li
-ne 10.
-
-
-Package natbib Warning: Citation `Angelis2011' on page 72 undefined on input li
-ne 10.
-
-
-Package natbib Warning: Citation `Bella2015' on page 72 undefined on input line
- 16.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
- [72 <./cap6/figs/dssc_acuosa-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [78 <./cap6/figs/dssc_acuosa-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+ [79]
 Package epstopdf Info: Source file: <cap6/figs/conf_ca_cb.eps>
 (epstopdf)                    date: 2021-10-08 18:13:56
 (epstopdf)                    size: 701327 bytes
@@ -3105,20 +3095,14 @@ Package epstopdf Info: Source file: <cap6/figs/conf_ca_cb.eps>
 (epstopdf)                    size: 219563 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap6/figs/conf_ca_cb-eps-c
 onverted-to.pdf cap6/figs/conf_ca_cb.eps>
-(epstopdf)             \includegraphics on input line 30.
+(epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/conf_ca_cb-eps-converted-to.pdf, id=507, 607.26875pt x 286.06876pt>
+<cap6/figs/conf_ca_cb-eps-converted-to.pdf, id=544, 607.26875pt x 286.06876pt>
 File: cap6/figs/conf_ca_cb-eps-converted-to.pdf Graphic file (type pdf)
 <use cap6/figs/conf_ca_cb-eps-converted-to.pdf>
 Package pdftex.def Info: cap6/figs/conf_ca_cb-eps-converted-to.pdf  used on inp
-ut line 30.
+ut line 35.
 (pdftex.def)             Requested size: 302.00278pt x 142.26378pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
- [73 <./cap6/figs/conf_ca_cb-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap6/figs/temps_steps.eps>
 (epstopdf)                    date: 2021-10-08 16:22:12
 (epstopdf)                    size: 162983 bytes
@@ -3128,13 +3112,13 @@ Package epstopdf Info: Source file: <cap6/figs/temps_steps.eps>
 (epstopdf)                    size: 169246 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap6/figs/temps_steps-eps-
 converted-to.pdf cap6/figs/temps_steps.eps>
-(epstopdf)             \includegraphics on input line 47.
+(epstopdf)             \includegraphics on input line 48.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/temps_steps-eps-converted-to.pdf, id=518, 580.1675pt x 534.99875pt>
+<cap6/figs/temps_steps-eps-converted-to.pdf, id=545, 580.1675pt x 534.99875pt>
 File: cap6/figs/temps_steps-eps-converted-to.pdf Graphic file (type pdf)
 <use cap6/figs/temps_steps-eps-converted-to.pdf>
 Package pdftex.def Info: cap6/figs/temps_steps-eps-converted-to.pdf  used on in
-put line 47.
+put line 48.
 (pdftex.def)             Requested size: 246.83792pt x 227.62204pt.
 Package epstopdf Info: Source file: <cap6/figs/relax.eps>
 (epstopdf)                    date: 2021-10-08 18:04:54
@@ -3144,30 +3128,32 @@ Package epstopdf Info: Source file: <cap6/figs/relax.eps>
 (epstopdf)                    size: 206657 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap6/figs/relax-eps-conver
 ted-to.pdf cap6/figs/relax.eps>
-(epstopdf)             \includegraphics on input line 57.
+(epstopdf)             \includegraphics on input line 58.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/relax-eps-converted-to.pdf, id=519, 799.98875pt x 440.64626pt>
+<cap6/figs/relax-eps-converted-to.pdf, id=546, 799.98875pt x 440.64626pt>
 File: cap6/figs/relax-eps-converted-to.pdf Graphic file (type pdf)
 <use cap6/figs/relax-eps-converted-to.pdf>
 Package pdftex.def Info: cap6/figs/relax-eps-converted-to.pdf  used on input li
-ne 57.
+ne 58.
 (pdftex.def)             Requested size: 439.06746pt x 241.84842pt.
 
-Overfull \hbox (20.81378pt too wide) in paragraph at lines 57--58
+Overfull \hbox (20.81378pt too wide) in paragraph at lines 58--59
  [][] 
  []
 
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+[80 <./cap6/figs/conf_ca_cb-eps-converted-to.pdf>]
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Text page 81 contains only floats.
 
-LaTeX Info: Redefining \. on input line 63.
-LaTeX Info: Redefining \% on input line 63.
- [74 <./cap6/figs/temps_steps-eps-converted-to.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 82.
-LaTeX Info: Redefining \% on input line 82.
- [75 <./cap6/figs/relax-eps-converted-to.pdf>]
+Underfull \vbox (badness 1320) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+ [81 <./cap6/figs/temps_steps-eps-converted-to.pdf> <./cap6/figs/relax-eps-conv
+erted-to.pdf>]
 Package epstopdf Info: Source file: <cap6/figs/antes_despues_relax_cur.eps>
 (epstopdf)                    date: 2021-10-08 17:55:50
 (epstopdf)                    size: 319763 bytes
@@ -3179,7 +3165,7 @@ erted-to.pdf>
 lax_cur-eps-converted-to.pdf cap6/figs/antes_despues_relax_cur.eps>
 (epstopdf)             \includegraphics on input line 86.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/antes_despues_relax_cur-eps-converted-to.pdf, id=536, 843.15pt x 120
+<cap6/figs/antes_despues_relax_cur-eps-converted-to.pdf, id=570, 843.15pt x 120
 .45pt>
 File: cap6/figs/antes_despues_relax_cur-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3190,9 +3176,12 @@ Package pdftex.def Info: cap6/figs/antes_despues_relax_cur-eps-converted-to.pdf
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 117.
-LaTeX Info: Redefining \% on input line 117.
- [76 <./cap6/figs/antes_despues_relax_cur-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 109.
+LaTeX Info: Redefining \% on input line 109.
+ [82 <./cap6/figs/antes_despues_relax_cur-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+ [83]
 Package epstopdf Info: Source file: <cap6/figs/gr-O-H.eps>
 (epstopdf)                    date: 2021-10-12 10:53:31
 (epstopdf)                    size: 33453 bytes
@@ -3201,18 +3190,14 @@ Package epstopdf Info: Source file: <cap6/figs/gr-O-H.eps>
 (epstopdf)                    size: 10535 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap6/figs/gr-O-H-eps-conve
 rted-to.pdf cap6/figs/gr-O-H.eps>
-(epstopdf)             \includegraphics on input line 154.
+(epstopdf)             \includegraphics on input line 147.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/gr-O-H-eps-converted-to.pdf, id=548, 845.1575pt x 597.23125pt>
+<cap6/figs/gr-O-H-eps-converted-to.pdf, id=585, 845.1575pt x 597.23125pt>
 File: cap6/figs/gr-O-H-eps-converted-to.pdf Graphic file (type pdf)
 <use cap6/figs/gr-O-H-eps-converted-to.pdf>
 Package pdftex.def Info: cap6/figs/gr-O-H-eps-converted-to.pdf  used on input l
-ine 154.
-(pdftex.def)             Requested size: 201.3202pt x 142.26378pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+ine 147.
+(pdftex.def)             Requested size: 281.84314pt x 199.16928pt.
 Package epstopdf Info: Source file: <cap6/figs/1_esfera_a.eps>
 (epstopdf)                    date: 2021-10-11 19:38:26
 (epstopdf)                    size: 4434938 bytes
@@ -3222,26 +3207,23 @@ Package epstopdf Info: Source file: <cap6/figs/1_esfera_a.eps>
 (epstopdf)                    size: 897549 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap6/figs/1_esfera_a-eps-c
 onverted-to.pdf cap6/figs/1_esfera_a.eps>
-(epstopdf)             \includegraphics on input line 166.
+(epstopdf)             \includegraphics on input line 159.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/1_esfera_a-eps-converted-to.pdf, id=549, 752.8125pt x 505.89pt>
+<cap6/figs/1_esfera_a-eps-converted-to.pdf, id=586, 752.8125pt x 505.89pt>
 File: cap6/figs/1_esfera_a-eps-converted-to.pdf Graphic file (type pdf)
 <use cap6/figs/1_esfera_a-eps-converted-to.pdf>
 Package pdftex.def Info: cap6/figs/1_esfera_a-eps-converted-to.pdf  used on inp
-ut line 166.
+ut line 159.
 (pdftex.def)             Requested size: 338.72803pt x 227.62204pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-LaTeX Info: Redefining \. on input line 172.
-LaTeX Info: Redefining \% on input line 172.
-[77]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 179.
-LaTeX Info: Redefining \% on input line 179.
- [78 <./cap6/figs/gr-O-H-eps-converted-to.pdf> <./cap6/figs/1_esfera_a-eps-conv
-erted-to.pdf>]
+LaTeX Info: Redefining \. on input line 162.
+LaTeX Info: Redefining \% on input line 162.
+ [84 <./cap6/figs/gr-O-H-eps-converted-to.pdf>]
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
+ [85 <./cap6/figs/1_esfera_a-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <cap6/figs/anchos.eps>
 (epstopdf)                    date: 2021-10-14 19:18:09
 (epstopdf)                    size: 1471799 bytes
@@ -3250,80 +3232,175 @@ Package epstopdf Info: Source file: <cap6/figs/anchos.eps>
 (epstopdf)                    size: 680667 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap6/figs/anchos-eps-conve
 rted-to.pdf cap6/figs/anchos.eps>
-(epstopdf)             \includegraphics on input line 197.
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/anchos-eps-converted-to.pdf, id=562, 722.7pt x 250.9375pt>
+<cap6/figs/anchos-eps-converted-to.pdf, id=599, 722.7pt x 250.9375pt>
 File: cap6/figs/anchos-eps-converted-to.pdf Graphic file (type pdf)
 <use cap6/figs/anchos-eps-converted-to.pdf>
 Package pdftex.def Info: cap6/figs/anchos-eps-converted-to.pdf  used on input l
-ine 197.
+ine 188.
 (pdftex.def)             Requested size: 409.73778pt x 142.26378pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 Package epstopdf Info: Source file: <cap6/figs/prom_1.eps>
-(epstopdf)                    date: 2021-10-11 23:33:37
-(epstopdf)                    size: 437048 bytes
+(epstopdf)                    date: 2021-11-12 16:15:49
+(epstopdf)                    size: 420174 bytes
 (epstopdf)             Output file: <cap6/figs/prom_1-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-10-11 23:35:48
-(epstopdf)                    size: 439833 bytes
+(epstopdf)                    date: 2021-11-12 16:16:34
+(epstopdf)                    size: 421893 bytes
 (epstopdf)             Command: <repstopdf --outfile=cap6/figs/prom_1-eps-conve
 rted-to.pdf cap6/figs/prom_1.eps>
-(epstopdf)             \includegraphics on input line 206.
+(epstopdf)             \includegraphics on input line 196.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/prom_1-eps-converted-to.pdf, id=563, 885.3075pt x 749.80125pt>
+<cap6/figs/prom_1-eps-converted-to.pdf, id=600, 885.3075pt x 749.80125pt>
 File: cap6/figs/prom_1-eps-converted-to.pdf Graphic file (type pdf)
 <use cap6/figs/prom_1-eps-converted-to.pdf>
 Package pdftex.def Info: cap6/figs/prom_1-eps-converted-to.pdf  used on input l
-ine 206.
+ine 196.
 (pdftex.def)             Requested size: 201.56311pt x 170.71652pt.
-Package epstopdf Info: Source file: <cap6/figs/comparacion_anchos.eps>
-(epstopdf)                    date: 2021-10-11 23:33:28
-(epstopdf)                    size: 569695 bytes
-(epstopdf)             Output file: <cap6/figs/comparacion_anchos-eps-converted
--to.pdf>
-(epstopdf)                    date: 2021-10-11 23:35:50
-(epstopdf)                    size: 583262 bytes
-(epstopdf)             Command: <repstopdf --outfile=cap6/figs/comparacion_anch
-os-eps-converted-to.pdf cap6/figs/comparacion_anchos.eps>
-(epstopdf)             \includegraphics on input line 207.
+Package epstopdf Info: Source file: <cap6/figs/prom_2.eps>
+(epstopdf)                    date: 2021-11-20 16:57:07
+(epstopdf)                    size: 555017 bytes
+(epstopdf)             Output file: <cap6/figs/prom_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-11-20 16:59:42
+(epstopdf)                    size: 567499 bytes
+(epstopdf)             Command: <repstopdf --outfile=cap6/figs/prom_2-eps-conve
+rted-to.pdf cap6/figs/prom_2.eps>
+(epstopdf)             \includegraphics on input line 197.
 Package epstopdf Info: Output file is already uptodate.
-<cap6/figs/comparacion_anchos-eps-converted-to.pdf, id=564, 885.3075pt x 749.80
-125pt>
-File: cap6/figs/comparacion_anchos-eps-converted-to.pdf Graphic file (type pdf)
-
-<use cap6/figs/comparacion_anchos-eps-converted-to.pdf>
-Package pdftex.def Info: cap6/figs/comparacion_anchos-eps-converted-to.pdf  use
-d on input line 207.
+<cap6/figs/prom_2-eps-converted-to.pdf, id=601, 885.3075pt x 749.80125pt>
+File: cap6/figs/prom_2-eps-converted-to.pdf Graphic file (type pdf)
+<use cap6/figs/prom_2-eps-converted-to.pdf>
+Package pdftex.def Info: cap6/figs/prom_2-eps-converted-to.pdf  used on input l
+ine 197.
 (pdftex.def)             Requested size: 201.56311pt x 170.71652pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 214.
-LaTeX Info: Redefining \% on input line 214.
-[79]
-LaTeX Info: Redefining \. on input line 221.
-LaTeX Info: Redefining \% on input line 221.
- [80 <./cap6/figs/anchos-eps-converted-to.pdf> <./cap6/figs/prom_1-eps-converte
-d-to.pdf> <./cap6/figs/comparacion_anchos-eps-converted-to.pdf>])
-(./cap7/cap7.tex
+LaTeX Info: Redefining \. on input line 204.
+LaTeX Info: Redefining \% on input line 204.
+ [86 <./cap6/figs/anchos-eps-converted-to.pdf> <./cap6/figs/prom_1-eps-converte
+d-to.pdf> <./cap6/figs/prom_2-eps-converted-to.pdf>]) (./cap7/cap7.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [81]
+ [87]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [82
+ [88
 
 ]
 Cap\'{\i }tulo 7.
-) (./main.bbl [83])
+[89]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: There were undefined citations.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+ [90]
+Package epstopdf Info: Source file: <cap7/figs/comp_modelo_directo.eps>
+(epstopdf)                    date: 2021-11-15 15:52:49
+(epstopdf)                    size: 1161711 bytes
+(epstopdf)             Output file: <cap7/figs/comp_modelo_directo-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2021-11-15 15:54:20
+(epstopdf)                    size: 399495 bytes
+(epstopdf)             Command: <repstopdf --outfile=cap7/figs/comp_modelo_dire
+cto-eps-converted-to.pdf cap7/figs/comp_modelo_directo.eps>
+(epstopdf)             \includegraphics on input line 23.
+Package epstopdf Info: Output file is already uptodate.
+<cap7/figs/comp_modelo_directo-eps-converted-to.pdf, id=632, 1008.76875pt x 490
+.83376pt>
+File: cap7/figs/comp_modelo_directo-eps-converted-to.pdf Graphic file (type pdf
+)
+<use cap7/figs/comp_modelo_directo-eps-converted-to.pdf>
+Package pdftex.def Info: cap7/figs/comp_modelo_directo-eps-converted-to.pdf  us
+ed on input line 23.
+(pdftex.def)             Requested size: 350.85782pt x 170.71652pt.
 
-LaTeX Info: Redefining \. on input line 165.
-LaTeX Info: Redefining \% on input line 165.
-[84] (./main.aux
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [91 <./cap7/figs/comp_modelo_directo-eps-converted-to.pdf>]) (./main.bbl
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [92]
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+ [93]
+Underfull \hbox (badness 1748) in paragraph at lines 143--146
+[]\OT1/cmr/m/n/12 B. Ara-di, B. Hou-rahi-ne, and Th. Frauenheim.  DFTB+, a spar
+-se
+ []
+
+LaTeX Info: Redefining \. on input line 185.
+LaTeX Info: Redefining \% on input line 185.
+[94]
+LaTeX Info: Redefining \. on input line 246.
+LaTeX Info: Redefining \% on input line 246.
+ [95]
+LaTeX Info: Redefining \. on input line 308.
+LaTeX Info: Redefining \% on input line 308.
+ [96]
+Underfull \hbox (badness 1264) in paragraph at lines 348--352
+\OT1/cmr/m/n/12 Synthe-sis and cha-rac-te-ri-za-tion of or-ga-nic dyes bea-ring
+ new electron-
+ []
+
+LaTeX Info: Redefining \. on input line 361.
+LaTeX Info: Redefining \% on input line 361.
+[97]
+Underfull \hbox (badness 2065) in paragraph at lines 419--423
+[]\OT1/cmr/m/n/12 Ana Mo-ran-dei-ra, Ge-rrit Bos-chloo, An-ders Hag-feldt, and 
+Leif Ham-
+ []
+
+LaTeX Info: Redefining \. on input line 423.
+LaTeX Info: Redefining \% on input line 423.
+[98]
+LaTeX Info: Redefining \. on input line 493.
+LaTeX Info: Redefining \% on input line 493.
+ [99]
+
+! Package inputenc Error: Unicode character ̧ (U+0327)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.543   S.~J. Cho, and H.~Morko̧
+                                 .
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+LaTeX Info: Redefining \. on input line 553.
+LaTeX Info: Redefining \% on input line 553.
+[100]
+LaTeX Info: Redefining \. on input line 621.
+LaTeX Info: Redefining \% on input line 621.
+ [101]
+LaTeX Info: Redefining \. on input line 687.
+LaTeX Info: Redefining \% on input line 687.
+ [102]
+LaTeX Info: Redefining \. on input line 754.
+LaTeX Info: Redefining \% on input line 754.
+ [103]
+LaTeX Info: Redefining \. on input line 817.
+LaTeX Info: Redefining \% on input line 817.
+ [104]
+
+! Package inputenc Error: Unicode character ̄ (U+0304)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.829   ZnO(101̄
+                 0)}.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+)
+LaTeX Info: Redefining \. on input line 168.
+LaTeX Info: Redefining \% on input line 168.
+ [105] (./main.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -3333,23 +3410,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  )
 (\end occurred inside a group at level 2)
 
-### simple group (level 2) entered at line 188 ({)
-### simple group (level 1) entered at line 180 ({)
+### simple group (level 2) entered at line 179 ({)
+### simple group (level 1) entered at line 173 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 8768 strings out of 480906
- 147226 string characters out of 5910772
- 428626 words of memory out of 5000000
- 24112 multiletter control sequences out of 15000+600000
+ 29990 strings out of 480906
+ 675086 string characters out of 5910772
+ 932242 words of memory out of 5000000
+ 45038 multiletter control sequences out of 15000+600000
  559108 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,14n,52p,2804b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 132i,14n,173p,2551b,1416s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/tex
@@ -3375,10 +3449,10 @@ s/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symb
 ols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbo
 ls/msbm7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/s
 hare/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (100 pages, 36686104 bytes).
+Output written on main.pdf (121 pages, 37189759 bytes).
 PDF statistics:
- 684 PDF objects out of 1000 (max. 8388607)
- 381 compressed objects within 4 object streams
+ 771 PDF objects out of 1000 (max. 8388607)
+ 437 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 331 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 353 words of extra memory for PDF output out of 10000 (max. 10000000)
 

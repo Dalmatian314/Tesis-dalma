@@ -1,18 +1,17 @@
 \chapter{Marco teórico}
 
-Las simulaciones computacionales han contribuído notablemente en el campo de la investigación experimental, tanto para la interpretación de resultados obtenidos y la planificación de futuros trabajos como para deducir información que no es asequible experimentalmente. Hoy en día, estas herramientas juegan un rol importante en la investigación y estudio de nanoestructuras, debido a que permiten modelar y simular comportamientos a diferentes niveles de teoría. Para estudiar los sistemas presentados en esta tesis se combinaron técnicas que utilizan conceptos de la física clásica como así tambien de la física cuántica. Mientras que la primera se utilizó para construir estructuras teniendo en cuenta el desorden térmico, ya que de esta manera se pueden obtener configuraciones consistentes con observaciones experimentales, la segunda permitió determinar propiedades electrónicas y ópticas. En este capítulo se explica en detalle los métodos computacionales que se utilizaron a lo largo de esta tesis.
+Las simulaciones computacionales han contribuído notablemente en el campo de la investigación experimental, tanto para la interpretación de resultados obtenidos y la planificación de futuros trabajos como para deducir información que no es asequible experimentalmente. Hoy en día, estas herramientas juegan un rol importante en la investigación y estudio de nanoestructuras, debido a que permiten modelar y simular comportamientos a diferentes niveles de teoría. Para estudiar los sistemas presentados en esta tesis se combinaron técnicas que utilizan conceptos de la física clásica como así tambien de la física cuántica. Mientras que la primera permitió, entre otras, construir estructuras teniendo en cuenta el desorden térmico y así obtener configuraciones consistentes con observaciones experimentales; la segunda permitió determinar las estructuras electrónicas y propiedades ópticas de los sistemas estudiados. En este capítulo se explica en detalle los métodos computacionales que se utilizaron a lo largo de la tesis.
 
 
 \section{Dinámica molecular clásica}
 
-La dinámica molecular es una técnica computacional que consiste en observar la evolución temporal de un sistema, permitiendo su estudio estructural, dinámico y energético. Al igual que en un experimento real, se cuenta con un sistema sobre el cual se realizan mediciones de propiedades a lo largo del tiempo. Con esta metodología se generan trayectorias, es decir, recopilaciones de los estados que va adquirindo el sistema a medida que avanza la simulación y que contienen información de las posiciones y los momentos de cada una de las partículas. 
-En el caso de la dinámica molecular clásica, la evolución temporal se obtiene mediante la resolución de las ecuaciones diferenciales clásicas de movimiento de Newton con algún algoritmo de integración y con especificaciones de un potencial de interacción interatómico de condiciones iniciales y de frontera adecuadas. De esta manera, las posiciones y velocidades están conectadas en el tiempo convirtiendo a la dinámica molecular clásica en una técnica determinista. 
+La dinámica molecular es una técnica computacional que consiste en observar la evolución temporal de un sistema, permitiendo su estudio estructural, dinámico y energético. Al igual que en un experimento real, se cuenta con un sistema sobre el cual se realizan mediciones de propiedades a lo largo del tiempo. Con esta metodología se generan trayectorias, es decir, recopilaciones de los estados que va adquirindo el sistema a medida que avanza la simulación y que contienen información de las posiciones y los momentos de cada una de las partículas. En el caso de la dinámica molecular clásica, la evolución temporal se obtiene mediante la resolución de las ecuaciones diferenciales clásicas de movimiento de Newton con algún algoritmo de integración y con especificaciones de un potencial de interacción interatómico de condiciones iniciales y de frontera adecuadas. De esta manera, las posiciones y velocidades están conectadas en el tiempo convirtiendo a la dinámica molecular clásica en una técnica determinista. 
  
 LAMMPS \cite{PLIMPTON19951} o sus siglas en inglés (Large-scale Atomic/Molecular Massively Parallel Simulator) es un software que utiliza la dinámica molecular clásica para modelar materiales, en especial cuenta con un gran potencial para materiales de estado solido y puede ser utilizado para modelar sistemas a escala nanométrica. Este código incluye modelos de interacción de corto y largo alcance y además utiliza listas de vecinos para realizar un seguimiento de las partículas cercanas, las cuales están optimizadas para sistemas con partículas que son repulsivas a distancias cortas. Las dinámicas y minimizaciones de energía de los sistemas estudiados se realizaron utilizando este software, seleccionando un potencial adecuado para realizar los cálculos.
 
 \section{DFT-DFTB}
 
-La estructura electrónica de un material define las propiedades del mismo y por ende las posibles aplicaciones prácticas. Existen varios métodos que describen la estructura electrónica utilizando distintas aproximaciones. Cuando el número de átomos y electrones es muy pequeño, podemos utilizar un método exacto como la interacción de configuraciones para calcular la verdadera función de onda de muchos electrones. Sin embargo, más allá de los diez electrones llegamos a la pared exponencial y los cálculos se vuelven imposibles de resolver. Para sistemas más grandes que contienen hasta unos pocos cientos o algunos miles de átomos, podemos usar técnicas como la teoría funcional de la densidad (DFT) para encontrar la energía del estado fundamental del sistema que interactúa sin calcular explícitamente la función de onda de muchos electrones. La DFT es una teoría que nace de los teoremas de Hohenberg-Kohn, los cuales enuncian que conociendo la densidad electrónica n($\textbf{r})$ se puede calcular la energía E[n($\textbf{r}$)] como un funcional de la densidad sin necesidad de conocer el potencial externo v($\textbf{r}$) y que la densidad electrónica que minimiza la energía, es la que se calcula a partir de la función de onda del estado fundamental. En 1965 Walter Kohn y Lu Sham encontraron una forma de aplicar los teoremas antes mencionadosvpara obtener la energı́a como un funcional de la densidad de un sistema ficticio de electrones no interactuantes. Esta densidad es igual a la densidad del sistema de electrones interactuantes, y por lo tanto es posible obtener la energı́a total del sistema sin resolver la ecuación de Schr\"odinger de muchos cuerpos. De esta manera, la energı́a total puede expresarse como:
+La estructura electrónica de un material define las propiedades del mismo y por ende las posibles aplicaciones prácticas. Existen varios métodos que describen la estructura electrónica utilizando distintas aproximaciones. Cuando el número de átomos y electrones es muy pequeño, podemos utilizar un método exacto como la interacción de configuraciones para calcular la verdadera función de onda de muchos electrones. Sin embargo, más allá de los diez electrones llegamos a la pared exponencial y los cálculos se vuelven imposibles de resolver. Para sistemas más grandes que contienen hasta unos pocos cientos o algunos miles de átomos, podemos usar técnicas como la teoría funcional de la densidad (DFT) para encontrar la energía del estado fundamental del sistema que interactúa, sin calcular explícitamente la función de onda de muchos electrones. La DFT es una teoría que nace de los teoremas de Hohenberg-Kohn \cite{Hohenberg1964}, los cuales enuncian que conociendo la densidad electrónica n($\textbf{r})$ se puede calcular la energía E[n($\textbf{r}$)] como un funcional de la densidad sin necesidad de conocer el potencial externo v($\textbf{r}$) y que la densidad electrónica que minimiza la energía, es la que se calcula a partir de la función de onda del estado fundamental. En 1965 Walter Kohn y Lu Sham \cite{Kohn1965} encontraron una forma de aplicar los teoremas antes mencionados para obtener la energı́a como un funcional de la densidad de un sistema ficticio de electrones no interactuantes. Esta densidad es igual a la densidad del sistema de electrones interactuantes, y por lo tanto es posible obtener la energı́a total del sistema sin resolver la ecuación de Schr\"odinger de muchos cuerpos. De esta manera, la energı́a total puede expresarse como:
 
 \begin{equation}
 \label{E_KS}
@@ -31,11 +30,11 @@ donde:
  $\displaystyle n(\mathbf{r})=\sum_{a} f_a \left|\psi_{a}(\mathbf{r})\right|^{2}$
 \end{itemize}
 
-En la ecuación \ref{E_KS}, el término que se encuentra entre paréntesis contiene la energía cinética y el potencial debido a interacciones externas (interacciones electrón-núcleo). El segundo término representa el potencial electrostático clásico para una dada $n(\mathbf{r})$ o también llamado potencial de Hartree. El tercer término, $E_{x c}[n(\mathbf{r})]$, es la energía de correlación e intercambio (que esconde todo los problemas de efectos de muchos cuerpos) y por último la $E_{AA}$ es la energía de interacción entre núcleos.
+En la ecuación \ref{E_KS}, el término que se encuentra entre paréntesis contiene la energía cinética y el potencial debido a interacciones externas (interacciones electrón-núcleo). El segundo término representa el potencial electrostático clásico para una dada $n(\mathbf{r})$ o también llamado potencial de Hartree. El tercer término, $E_{x c}[n(\mathbf{r})]$, es la energía de correlación e intercambio y por último la $E_{AA}$ es la energía de interacción entre núcleos.
 
-La DFT domina en lo que respecta a métodos de estructura electrónica, siendo la técnica habitual para modelar sistemas grandes químicamente complejos y con buena precisión. Para sistemas más grandes y escalas de tiempo los modelos de campo de fuerza dominan, en cambio, el modelado químico y de materiales. Entre estos se encuentran los métodos semi-empíricos, derivados de aproximaciones a métodos basados ​​en Hartree-Fock o DFT. En particular, el método tight binding basado en el funcional de la densidad o DFTB ofrece un método DFT de complejidad reducida, que deriva de simplificar las ecuaciones de Kohn-Sham en DFT a una forma tight binding \cite{Hourahine2020}.
+La DFT domina en lo que respecta a métodos de estructura electrónica, siendo la técnica habitual para modelar sistemas grandes químicamente complejos y con buena precisión. Para sistemas más grandes y escalas de tiempo los modelos de campo de fuerza dominan el modelado químico y de materiales. Entre estos se encuentran los métodos semi-empíricos, derivados de aproximaciones a métodos basados ​​en Hartree-Fock o DFT. En particular, el método \textit{tight binding} (TB) basado en el funcional de la densidad (DFTB) ofrece un método DFT de complejidad reducida, que deriva de simplificar las ecuaciones de Kohn-Sham en DFT a una forma TB \cite{Hourahine2020}.
 
-El método DFTB expresa la densidad del estado fundamental $n(\mathbf{r})$ mediante la suma de dos términos. En primer lugar, suponemos que la densidad es igual a la suma de las densidades de los átomos neutros, es decir $n(\mathbf{r})$ = $n_0(\mathbf{r})$, y por ende no existe transferencia de carga. En el modelo tight binding, podemos suponer que si bien $n_0$ no minimiza el funcional de DFT, la fluctuación de la densidad necesaria para minimizarlo es pequeña, entonces n$_{min} = n_0 + \delta n$. 
+El método DFTB expresa la densidad del estado fundamental $n(\mathbf{r})$ mediante la suma de dos términos. En primer lugar, suponemos que la densidad es igual a la suma de las densidades de los átomos neutros, es decir $n(\mathbf{r})$ = $n_0(\mathbf{r})$, y por ende no existe transferencia de carga. En el modelo TB, podemos suponer que si bien $n_0$ no minimiza el funcional de DFT, la fluctuación de la densidad necesaria para minimizarlo es pequeña, entonces n$_{min} = n_0 + \delta n$. 
 
 Expandiendo $E[n(\mathbf{r})]$ alrededor de la densidad de referencia $n_0$ hasta segundo orden en las fluctuaciones de la densidad $\delta n$, la energía queda expresada como:
 
@@ -51,12 +50,12 @@ Expandiendo $E[n(\mathbf{r})]$ alrededor de la densidad de referencia $n_0$ hast
 Se pueden identificar tres partes en la ecuación \ref{E_nref} que se corresponden con los 3 renglones observados: 
 
 \begin{itemize}
- \item El término del primer renglón contiene los elementos de matriz del ``Hamiltoniano no autoconsistente'' $\displaystyle \left\langle\psi_{a}\left|H^{0}\right| \psi_{a}\right\rangle$ donde $H^{0}=H\left[n_{0}(\mathbf{r})\right]$. Al término completo se lo denomina energía de banda $\displaystyle E_{banda}=\sum_{a} f_{a}\left\langle\psi_{a}\left|H^{0}\right| \psi_{a}\right\rangle$.
+ \item El término del primer renglón contiene los elementos de matriz del ``hamiltoniano no autoconsistente'' $\displaystyle \left\langle\psi_{a}\left|H^{0}\right| \psi_{a}\right\rangle$ donde $H^{0}=H\left[n_{0}(\mathbf{r})\right]$. Al término completo se lo denomina energía de banda $\displaystyle E_{banda}=\sum_{a} f_{a}\left\langle\psi_{a}\left|H^{0}\right| \psi_{a}\right\rangle$.
  \item El segundo término en la ecuación representa la contribución coulómbica de la fluctuación de la densidad a la energía o $E_{coul}$.
  \item La suma de los 4 últimos términos que se encuentran en el último renglón se conoce como energía repulsiva $E_{rep}$ debido al término de repulsión nuclear $E_{AA}$.
 \end{itemize}
 
-El método DFTB expresa la ecuación \ref{E_nref} utilizando una base local mínima de orbitales pseudoatómicos  $\phi_{u}$, es decir, sólo una función radial por cada estado del momento angular, como aproximación para expandir la función de onda:
+El método DFTB expresa la ecuación \ref{E_nref} utilizando una base local mínima de orbitales pseudoatómicos $\phi_{u}$, es decir, sólo una función radial por cada estado del momento angular, como aproximación para expandir la función de onda:
 
 \begin{equation}
 \psi_{a}(\boldsymbol{r})=\sum_{\mu} c_{\mu}^{a} \phi_{\mu}(\boldsymbol{r})
@@ -89,14 +88,22 @@ donde $H_{\mu \nu}=H_{\mu \nu}^{0}+h_{\mu \nu}^{1} S_{\mu \nu}$, $S_{\mu v} = \b
 
 Para minimizar la energía comenzamos con una $\Delta q_I$ de prueba para obtener $h_{\mu \nu}^{1}$, con el cual se calculan los elementos de matriz $H_{\mu \nu}$, y por último se resuelve la expresión de la ecuación \ref{coef}. A partir de esta última, se obtienen nuevos coeficientes $c_{\mu}^{a}$, con los que se vuelven a calcular nuevos $\Delta q_I$, iterando n veces hasta lograr la autoconcistencia. El número de iteraciones requeridas para la convergencia usualmente es marcadamente menor que las necesarias en DFT \cite{Koskinen2009}. Las aproximaciones que representa el método DFTB reducen considerablemente el costo computacional, lo que permite trabajar con sistemas de miles de átomos \cite{Gaus2014,Christensen2016} comparados con lo que se pueden simular con DFT. Por otro lado, los parámetros que se utilizan en este método semiempírico son calculados directamente con DFT, por lo que se logran resultados comparables con ese método. 
 
+Los programas Quantum Espresso \cite{Giannozzi2009} y dftb+ \cite{Aradi2007} fueron utilizados en esta tesis para realizar los cálculos relacionados a la estructura electrónica de los sistemas estudiados. El primero es una implementación de la DFT y el segundo del método  TB autoconsistente en las cargas basado en el funcional de la densidad (SCC-DFTB). Los cálculos del estado fundamental realizados con dftb+ permiten obtener el hamiltoniano del estado fundamental y la matriz de solapamiento necesarios para construir la matriz densidad reducida de un electrón en el estado fundamental, necesarios para el posterior cálculo de la dinámica electrónica.
 
-Los programas Quantum Espresso \cite{Giannozzi2009} y dftb+ \cite{Aradi2007} fueron utilizados en esta tesis para realizar los cálculos relacionados a la estructura electrónica de los sistemas estudiados. El primero es una implementación de la DFT y el segundo del método de \emph{tight binding} autoconsistente en las cargas basado en el funcional de la densidad (SCC-DFTB). Los cálculos del estado fundamental realizados con dftb+ permiten obtener el Hamiltoniano del estado fundamental y la matriz de solapamiento necesarios para construir la matriz densidad reducida de un electrón en el estado fundamental, necesarios para el posterior cálculo de la dinámica electrónica.
 
-\section{TD-DFTB}
+\subsection{Método de banda elástica}
 
-Para el cálculo de las propiedades ópticas de los sistemas analizados se utilizó la técnica TD-DFTB (\emph{time-dependent} DFTB), la cual incluye 
-la dependencia temporal en el desarrollo del método DFTB descripto anteriormente. Este método se basa en la propagación en tiempo real, de la matriz densidad reducida de un electrón partiendo del estado fundamental cuando se aplica una perturbación externa.
+El método de banda elástica (NEB) es un paquete del programa Quantum Espresso que permite obtener el camino de reacción de mínima energía que conecta dos estados de equilibrio conocidos. El camino de mínima energía (MEP) tiene la propiedad de que cada punto, es un mínimo en todas las direcciones perpendiculares a él. El método de la banda elástica es un método de cadenas de estados, en el cual el camino de reacción se describe como una serie de imágenes. Estas imágenes se conectan a través de constantes de fuerzas elásticas, formando una banda elástica.
 
+Un cálculo de NEB comienza con algún camino que conecta el estado inicial y el final. Por lo general, la cadena inicial se obtiene como una interpolación lineal entre ambos estados. Si se conocen intermediarios en la reacción, el proceso total debe dividirse en diferentes segmentos que conecten reactantes, intermediarios y productos.
+
+El método de las imágenes ascendentes (CI-NEB) introduce una pequeña modificación al método NEB, con el objetivo de asegurar una correcta convergencia del camino de reacción en el punto de ensilladura. Por lo tanto, asegura que la forma del camino de reacción se mantiene pero aumenta la precisión del estado de transición \cite{Henkelman2000}. CI-NEB permite utilizar menos imágenes que el NEB convencional, lo cual es importante para el cálculo DFT y el costo computacional.
+
+La metodología CI-NEB es la que se utiliza en el capítulo 6 como herramienta para validar resultados obtenidos con LAMMPS.
+
+\section{TD-DFTB}\label{din_electronica}
+
+Para el cálculo de las propiedades ópticas de los sistemas analizados se utilizó la técnica TD-DFTB (\emph{time-dependent} DFTB), la cual incluye la dependencia temporal en el desarrollo del método DFTB descripto anteriormente. La misma se basa en la propagación en tiempo real, de la matriz densidad reducida de un electrón partiendo del estado fundamental cuando se aplica una perturbación externa.
 La matriz densidad es un objeto que tiene toda la información del sistema. El operador matriz densidad reducida monoelectrónica (MDR) se define como:
 
 \begin{equation}
@@ -112,38 +119,37 @@ con $\sum_{i} f_{i}=N$, siendo $N$ el número de electrones. El valor de expecta
 
 La matriz densidad permite obtener el valor de expectación de una propiedad $A$ a partir de la traza del producto $\hat{\rho} \hat{A}$. Si bien este cálculo es independiente de la base que se utilice, es necesario que $\hat{\rho}$ y $\hat{A}$ estén en la misma base. Por otro lado, la representación de $\hat{\rho}$ simplifica ciertas expresiones, haciendo que los cálculos computacionales sean más eficientes y rápidos.
 
-Derivando $\hat{\rho(t)}$ en función del tiempo, se obtiene la ecuación de movimiento de Liouville-von Neumann para el operador de la MDR
-en una base de orbitales atómicos no ortogonales: 
+Derivando $\hat{\rho(t)}$ en función del tiempo, se obtiene la ecuación de movimiento de Liouville-von Neumann para el operador de la MDR en una base de orbitales atómicos no ortogonales: 
 
 \begin{equation}
 \frac{\partial}{\partial t} \hat{\rho}=-\frac{i}{\hbar}\left(S^{-1} \hat{H}[\hat{\rho}, t] \hat{\rho}-\hat{\rho} \hat{H}[\hat{\rho}, t] S^{-1}\right)
 \label{L-vN}
 \end{equation}
 
-donde $S$ es la matriz de solapamiento y $H$ el Hamiltoniano del sistema. Esta ecuación diferencial permite la evolución de la MDR y se integra de manera numérica utilizando el algoritmo de \emph{leapfrog}. Para que la MDR evolucione según \ref{L-vN} es necesario que el sistema no se encuentre en un autoestado del Hamiltoniano y por esta razón se debe aplicar una perturbación externa que lo desplace del estado fundamental. El Hamiltoniano que describe la influencia de un potencial externo dependiente del tiempo es:
+donde $S$ es la matriz de solapamiento y $H$ el hamiltoniano del sistema. Esta ecuación diferencial permite la evolución de la MDR y se integra de manera numérica utilizando el algoritmo de \emph{leapfrog}. Para que la MDR evolucione según \ref{L-vN} es necesario que el sistema no se encuentre en un autoestado del hamiltoniano y por esta razón se debe aplicar una perturbación externa que lo desplace del estado fundamental. El hamiltoniano que describe la influencia de un potencial externo dependiente del tiempo es:
 
 \begin{equation}
 \hat{H}(t)=\hat{H}_{0}+\hat{V}(t)
 \end{equation}
 
-donde $\hat{H}_{0}$ es el Hamiltoniano del estado fundamental y $\hat{V}(t)$ es la perturbación externa que depende del tiempo. Si el campo electromagnético que se utiliza para perturbar al sistema no está cuantizado y se utiliza la aproximación dipolar, el termino perturbativo es:
+donde $\hat{H}_{0}$ es el hamiltoniano del estado fundamental y $\hat{V}(t)$ es la perturbación externa que depende del tiempo. Si el campo electromagnético que se utiliza para perturbar al sistema no está cuantizado y se utiliza la aproximación dipolar, el termino perturbativo es:
 
 \begin{equation}
 \hat{V}(t)=-\mathbf{E}(t) \cdot \hat{\boldsymbol{\mu}}
 \end{equation}
 
-donde $\mathbf{E}(t)$ es el campo eléctrico dependiente del tiempo y $\hat{\boldsymbol{\mu}}$ es el operador momento dipolar del sistema.
+donde $\mathbf{E}(t)$ es el campo eléctrico dependiente del tiempo y $\hat{\boldsymbol{\mu}}$ es el operador momento dipolar del sistema. $\mathbf{E}(t)$ puede adoptar varias formas y cada una de ellas permitirán estudiar distintas propiedades ópticas tal como se detalla a continuación. 
 
 
 \subsection{Perturbación tipo pulso}
 
-Los espectros de absorción óptica se obtuvieron aplicando a cada sistema una perturbación tipo pulso o delta de Dirac. Esta perturbación nos excita todas las frecuencias del sistema y permite obtener información de las misma. El Hamiltoniano se expresa:
+Los espectros de absorción óptica se obtuvieron aplicando a cada sistema una perturbación tipo pulso o delta de Dirac, la cual excita todas las frecuencias del sistema. El hamiltoniano se expresa:
 
 \begin{equation}
 \hat{H}=\hat{H}^{0}+E_{0} \delta\left(t-t_{0}\right) \cdot \hat{\mu}
 \end{equation}
   
-donde $E_{0}$ es la intensidad del campo aplicado y $\hat{\mu}$ es el operador momento dipolar en una dirección dada.  Cuando la intensidad del campo externo es lo suficientemente pequeña, la dinámica electrónica evoluciona dentro del régimen de respuesta lineal \cite{Yabana1996}, lo cual permite obtener el momento dipolar dependiente del tiempo expresado de la siguiente manera:
+donde $E_{0}$ es la intensidad del campo aplicado y $\hat{\mu}$ es el operador momento dipolar en una dirección dada. Cuando la intensidad del campo externo es lo suficientemente pequeña, la dinámica electrónica evoluciona dentro del régimen de respuesta lineal, lo cual permite obtener el momento dipolar dependiente del tiempo expresado de la siguiente manera:
 
 \begin{equation}
 \mu(t)=\int_{-\infty}^{\infty} \alpha(t-\tau) E(\tau) \mathrm{d} \tau
@@ -162,7 +168,7 @@ Al promediar la polarizabilidad de la ecuación \ref{polarizabilidad} sobre la d
 
 \subsection{Perturbación tipo láser continuo}
 
-Procesos dinámicos como la transferencia de carga fotoinducida son estudiados mediante perturbaciones del tipo láser. Esta perturbación simula la acción de un láser sobre una molécula o sistema como un campo eléctrico monocromático que oscila en el tiempo:
+Procesos dinámicos tales como transferencias de cargas son estudiados mediante perturbaciones del tipo láser. Esta perturbación simula la acción de un láser sobre una molécula o sistema como un campo eléctrico monocromático que oscila en el tiempo:
 
 \begin{equation}
 \mathbf{E}(t)=E_{0} \sin (\omega t) \mathbf{u}
@@ -181,7 +187,7 @@ Este tipo de perturbación permite estudiar la naturaleza de las excitaciones de
 
 \section{DFTB con condiciones periódicas de contorno}   
 
-Anteriormente se desarrollaron las ecuaciones de DFT y DFTB para el cálculo de la estructura electrónica de moléculas o sistemas aislados. Es posible extender el cálculo a sistemas periódicos con condiciones periódicas de contorno. Si bien el paquete dftb+ permite realizar cálculos del estado fundamental para sistemas periódicos, la implementación de la dinámica electrónica es un trabajo reciente y que fue desarrollado por parte del grupo de investigación \cite{Bonafe2020}.  
+Anteriormente se desarrollaron las ecuaciones en marco DFT y DFTB para el cálculo de la estructura electrónica de moléculas o sistemas aislados. Es posible extender el cálculo a sistemas con condiciones periódicas de contorno. Si bien el paquete dftb+ permite realizar cálculos del estado fundamental para sistemas periódicos, la implementación de la dinámica electrónica es un trabajo reciente y que fue desarrollado por parte del grupo de investigación del Dr. Cristián G. Sánchez \cite{Bonafe2020}.  
 
 Para tratar un cristal periódico en traslaciones $\boldsymbol{T}$, necesitamos que las funciones de onda satisfagan la condición de Bloch, es decir:
 
@@ -206,14 +212,16 @@ ya que $\boldsymbol{k}$ es el mismo para todos los estados de la base. Introduci
 \sum_{\nu} c_{\nu}^{a}(\boldsymbol{k})\left[H_{\mu \nu}(\boldsymbol{k})-\varepsilon_{a}(\boldsymbol{k}) S_{\mu \nu}(\boldsymbol{k})\right]=0
 \end{equation}
 
-donde los elementos de la matriz hamiltoniana con las nuevas funciones base son los que se muestran en la ecuación \ref{hamil}. El Hamiltoniano está diagonalizado en cada punto $\boldsymbol{k}$ por separado y los hamiltonianos en diferentes puntos $\boldsymbol{k}$ se acoplan a través de la carga total en DFTB.
+donde los elementos de la matriz hamiltoniana con las nuevas funciones base son los que se muestran en la ecuación \ref{hamil}. El hamiltoniano está diagonalizado en cada punto $\boldsymbol{k}$ por separado y los hamiltonianos en diferentes puntos $\boldsymbol{k}$ se acoplan a través de la carga total en DFTB.
 
 \begin{equation}
 H_{\mu \nu}(\boldsymbol{k})=H_{\mu \nu}^{0}(\boldsymbol{k})+h_{\mu \nu}^{1} S_{\mu \nu}(\boldsymbol{k})
 \label{hamil}
 \end{equation}
 
-para cada punto $\boldsymbol{k}$ de un conjunto elegido a partir de un método como el de Monkhorst-Pack. La suma de la energía electrostática por celda unidad es:
+para cada punto $\boldsymbol{k}$ de un conjunto elegido a partir de un método como el de Monkhorst-Pack. 
+
+La suma de la energía electrostática por celda unidad es:
 
 \begin{equation}
 E_{\mathrm{coul}}=\frac{1}{2} \sum_{I J}^{\mathrm{celda}} \sum_{\boldsymbol{T}} \gamma_{I J}\left(\boldsymbol{R}_{I J}-\boldsymbol{T}\right) \Delta q_{I} \Delta q_{J}
@@ -225,4 +233,9 @@ Por otro lado, la parte repulsiva se expresa como:
 \sum_{I<J} V_{\mathrm{rep}}^{I J}\left(R_{I J}\right)=\frac{1}{2} \sum_{I J}^{\text {celda}} \sum_{\boldsymbol{T}} V_{\mathrm{rep}}^{I J}\left(\boldsymbol{R}_{I J}-\boldsymbol{T}\right)
 \end{equation}
 
+Para calcular propiedades ópticas de sistemas periódicos, básicamente es el mismo procedimiento mostrado en la sección \ref{din_electronica} para sistemas no periódicos, pero realizando los cálculos para cada punto $\boldsymbol{k}$. En este sentido, se aplica la perturbación externa de interés a los sistemas, generando la propagación de la matriz densidad reducida de un electrón por cada punto $\boldsymbol{k}$ y luego se integra la ecuación de movimiento de Liouville-von Neumann de manera numérica utilizando el algoritmo de leapfrog por cada punto $\boldsymbol{k}$.
+
+El hecho de que los cálculos para sólidos cristalinos deban realizarse repetidas veces (para cada punto $\boldsymbol{k}$), resulta computacionalmente costoso con otros métodos como por ejemplo DFT. Sin embargo, el DFTB al ser un método aproximado permite integrar cientos de miles de estados con una matriz de pocos elementos. 
+
 Para estructuras periódicas, muchas propiedades se obtienen integrando el espacio $\boldsymbol{k}$. En esta tesis se analizaron sistemas que requieren condiciones periódicas de contorno (en este caso en el eje z) como son los nanowires de ZnO wurtzita. Con la implementación de estas condiciones tanto en el estado fundamental como en el excitado se realizaron cálculos de estructura de bandas, transferencia de carga y evolución de las poblaciones en el tiempo.
+
